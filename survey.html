@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ADV Airport Travel Survey 2024</title>
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link
+      rel="stylesheet"
+      href="https://survalyzereu.blob.core.windows.net/public/assets/font-awesome.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://survalyzereu.blob.core.windows.net/public/assets/dx.common.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://survalyzereu.blob.core.windows.net/public/assets/dx.light.css"
+    />
+    <link
+      href="https://survalyzer.survalyzer.eu/assets/themes/default/rt-theme.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </head>
+
+  <body>
+    <survalyzer-survey
+      surveyhash="mxkaskffoc"
+      tenant="silverlining"
+    ></survalyzer-survey>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
+
+
+    <script src="data/VIE_departures_flight_list.js"></script>
+    
+    <script src="scripts/flight_search.js"></script>
+    <script src="scripts/auto_complete_ui.js"></script>
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/smoothness/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
+    <script>
+        window.addEventListener('load', function () {
+        setTimeout(() => {
+          const listSearchHandler = () => {
+            console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
+            
+            if ( api.fn.getCurrentPageIndex()==2) {
+              show_flight_search_box("Core_Q2");
+            } else {
+              hide_flight_search_box();
+            };
+          }    
+          api.events.subscribe('next', listSearchHandler);
+          api.events.subscribe('back', listSearchHandler);
+          api.events.subscribe('startedOrContinued', listSearchHandler);
+        });
+      });
+    </script>
+</body>
+</html>

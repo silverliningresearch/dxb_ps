@@ -1,0 +1,145 @@
+<html>
+  <head>
+		<title>Quota Report - BUD Commercial Survey</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  
+		<script src="data/quota_data.js"></script>
+    <script src="data/invalid_cases.js"></script>
+    <script src="data/BUD_flight_list.js"></script>
+    <script src="scripts/PrepareData.js"></script>
+		<script src="scripts/CalculateData.js"></script>
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BUD_Commercial/data/interview_data.js"></script> 
+
+    <style>
+      .table-font {
+        font-size: 16px;
+        /* height: 18px; */
+      }
+      .year_month{
+        font-size: 15px;
+        padding: 10px 8px 10px 14px;
+        background: #eee;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .year_month .select{
+        width: 120%;
+        background:url('arrow.png') no-repeat;
+        background-position:80% center;
+      }
+
+      .year_month .select select{
+        background: transparent;
+        line-height: 1;
+        border: 0;
+        padding: 0;
+        border-radius: 0;
+        width: 120%;
+        position: relative;
+        z-index: 10;
+        font-size: 1em;
+      }
+    </style>
+
+		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      //google.charts.load('current', {'packages':['table']});
+      google.charts.load('current', {'packages':['table','corechart', 'controls']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+        CalculateAirportAirLineReport();
+        var data = new google.visualization.DataTable();
+
+        //define header
+        data.addColumn('string', 'Airport_Airline');
+        data.addColumn('number', 'Remaining Flights');                
+        data.addColumn('number', 'Quota');
+        data.addColumn('number', 'Completed');
+				data.addColumn('number', 'Missing');
+				data.addColumn('number', 'Missing %');
+
+        //add data
+        for (i = 0; i < quota_data.length; i++) {
+          var row = quota_data[i];
+          data.addRows([
+          [
+            row.Airport_Airline, 
+            Number(row.remaining_flights), 
+            Number(row.Quota),
+            Number(row.Completed), 
+            Number(row.Difference), 
+            Number(row.Difference_percent)
+          ]
+          ]);
+			  }	
+
+        //create a dashboard.
+        var dashboard = new google.visualization.Dashboard(
+        document.getElementById('dashboard_div'));
+
+        //create fiter
+        var tableFilter = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'filter_div',
+          'options': {
+            'filterColumnLabel': 'Airport_Airline'
+          }
+        });
+  
+        // Create table
+        var tableChart = new google.visualization.ChartWrapper({
+          'chartType': 'Table',
+          'containerId': 'table_div',
+          'options': {
+            'allowHtml': true, 
+            'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
+            'sortColumn':  4, //{column: 2, desc: true},
+            'showRowNumber': false, 'width': '100%', 'height': '100%'
+          }
+        });
+
+        dashboard.bind(tableFilter, tableChart);
+
+        var view = new google.visualization.DataView(data);
+        document.getElementById("filter_div").style.display = "none";
+        dashboard.draw(view);
+
+        //Update time info
+        // document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
+
+        var overall_status = "Total quota: " + total_quota;
+        overall_status += " - Total completed: " + total_completed;
+        //overall_status += " - Quota completed: " + total_quota_completed;
+        document.getElementById("overall_status").innerHTML = overall_status + " | " + "Data updated at " + download_time;
+      }
+    </script>
+  </head>
+  <body>
+		<h1>Quota Report - BUD Commercial Survey</h1>
+    
+    <h4 id="overall_status"></h4>
+    <!-- <h4 id="download_time"></h4> -->
+    
+    <div class="year_month">
+      <label for="year_month">Data collection period:</label>
+      <select id="year_month" onchange="drawTable()">
+        <option value="current-quarter">current quarter
+          <option value="2023-Q4">2023-Q4          
+        <option value="2023-Q3">2023-Q3
+        <option value="2023-Q2">2023-Q2
+      </select>
+    </div>
+    <br>
+
+    <div id="dashboard_div">
+      <!--Divs that will hold each control and chart-->
+      <div id="filter_div"></div>
+      <div id="table_div"></div>
+    </div>
+
+  </body>
+</html>

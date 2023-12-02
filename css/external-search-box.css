@@ -1,0 +1,36 @@
+.select2.select2-container {
+  width: 100% !important;
+}
+
+.ui-autocomplete {
+max-height: 160px;
+overflow-y: auto;
+/* prevent horizontal scrollbar */
+overflow-x: hidden;
+font-size: 14px !important;
+}
+/* IE 6 doesn't support max-height
+* we use height instead, but this forces the menu to always be this tall
+*/
+* html .ui-autocomplete {
+height: 160px;
+
+}
+#external-search-box-select2{
+width: 100%;
+}
+
+.ui-autocomplete {
+  z-index: 9999 !important;
+  background-color: white;
+}
+
+.ui-helper-hidden-accessible {
+    display: none;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-state-active.ui-button:hover 
+{
+  border: 1px solid blue;
+/*  color: #ffffff;*/
+}

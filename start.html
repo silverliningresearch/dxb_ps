@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ADV Airport Travel Survey 2024</title>
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+<style>
+  
+  /* h1 {text-align: center;}
+  h2 {text-align: center;}
+ */
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 300px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.red {background-color: #f44336;;} /* Red */
+.blue {background-color: #008CBA;;} /* Blue */ 
+
+</style>
+
+
+</head>
+<body>
+
+  <script>
+    function start_new_interview() {
+      console.log("start_new_interview");
+      window.localStorage.clear();
+
+      let url = "https://silverliningresearch.github.io/VIE_ADV/survey.html";
+      window.location.href = url;
+    }
+
+    function resume_curent_interview() {
+      console.log("resume_curent_interview");
+      let url = "https://silverliningresearch.github.io/VIE_ADV/survey.html";
+      window.location.href = url;
+    }
+
+</script>
+  <!-- <h2>BER PASSENGER SURVEY</h2> -->
+  </br>
+  </br>
+  <button onclick="start_new_interview()" class="button red">Start a new interview</button>
+  <button onclick="resume_curent_interview()" class="button blue">Resume the current interview </button>
+
+  <p>
+	</br>
+    *<strong>Resume the current interview</strong> will continue from the last question in the current interview.</br>
+	</br></br></br>  
+  </p>
+
+
+  <div style="background-color: lightblue;">
+  </br>
+  </div> 
+  
+  <h2>
+    Interviewer Information
+  </h2>
+  <h3>
+
+    <a href="https://silverliningresearch.github.io/VIE_ADV/DailyPlan.html" target="_blank">
+      Daily Plan - ADV Airport Travel Survey 2024
+    </a>
+  </h3>
+
+</body>
+</html>
+
+
