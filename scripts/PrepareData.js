@@ -124,7 +124,7 @@ function prepareInterviewData() {
 
   var quota_data_temp = JSON.parse(airport_airline_quota);
   var interview_data_full  = JSON.parse(interview_data_raw);
-  var flight_list_full  = JSON.parse(VIE_Departures_Flight_List_Raw);
+  var flight_list_full  = JSON.parse(DXB_Departures_Flight_List_Raw);
 
   initCurrentTimeVars();		
   

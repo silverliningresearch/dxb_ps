@@ -1,4 +1,4 @@
-     let VIE_Departures_Flight_List_Raw = ` 
+     let DXB_Departures_Flight_List_Raw = ` 
 [
      {
      "Date": "29-10-2023",
