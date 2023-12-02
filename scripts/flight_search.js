@@ -100,14 +100,13 @@ function save_flight_value(question, value) {
   console.log("question:", question);
   console.log("value:", value);
 
-  api.fn.answers({Q2_show:  value.Show});
-  api.fn.answers({Q2_airline_name:   value.Airline}); //airline name
-  api.fn.answers({Q2_airline:   value.AirlineCode}); //airline code
-  api.fn.answers({Q2_flight_number:   value.Flight});
-  api.fn.answers({Q2_destination:   value.Dest});
-  api.fn.answers({Q2_destination_name: value.DestName});
-  api.fn.answers({Core_Q1:  value.DestName });
-  
+  api.fn.answers({flight_show:  value.Show});
+  api.fn.answers({flight_number:   value.Flight});
+  api.fn.answers({airline_name:   value.Airline}); //airline name
+  api.fn.answers({airline_code:   value.AirlineCode}); //airline code
+  api.fn.answers({airport_code:   value.Dest});
+  api.fn.answers({airport_name: value.DestName});
+ 
 
   console.log("save flight  done!");
 }
@@ -128,6 +127,6 @@ function show_flight_search_box(question) {
   aui_show_external_search_box(question, defaultValue);
 }
 
-function hire_flight_search_box() {
+function hide_flight_search_box() {
   aui_hide_external_search_box();
 }

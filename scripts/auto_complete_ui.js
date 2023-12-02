@@ -132,7 +132,7 @@ function selected_handler(val) {
   console.log('currentSearchQuestion: ', currentSearchQuestion);
 
   switch (currentSearchQuestion) {
-    case "Core_Q2": //Flight number
+    case "Flight_Number": //Flight number
       save_flight_value(currentSearchQuestion, val);
       $('.rt-btn.rt-btn-next').show(); 
       break;     
