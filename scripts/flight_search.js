@@ -15,7 +15,7 @@ function getToDate() {
   if (day.length < 2) 
       day = '0' + day;
 
-  return [day, month,year].join('-');
+  return [day, month, year].join('-');
 }
 
 function flight_in_list_found(list, item) {
