@@ -6,9 +6,10 @@
 		<script src="data/quota_data.js"></script>
     <script src="data/invalid_cases.js"></script>
     <script src="data/DXB_departures_flight_list.js"></script>
+
     <script src="scripts/PrepareData.js"></script>
 		<script src="scripts/CalculateData.js"></script>
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BUD_Commercial/data/interview_data.js"></script> 
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur_v2/DXB_PS/interview_statistics.js"></script> 
 
     <style>
       .table-font {
@@ -55,7 +56,9 @@
         var data = new google.visualization.DataTable();
 
         //define header
-        data.addColumn('string', 'Airport_Airline');
+        data.addColumn('string', 'Terminal');
+        data.addColumn('string', 'Flight Number');
+        data.addColumn('string', 'Destination');
         data.addColumn('number', 'Remaining Flights');                
         data.addColumn('number', 'Quota');
         data.addColumn('number', 'Completed');
@@ -67,7 +70,9 @@
           var row = quota_data[i];
           data.addRows([
           [
-            row.Airport_Airline, 
+            row.Terminal,
+            row.quota_id, 
+            row.Dest,
             Number(row.remaining_flights), 
             Number(row.Quota),
             Number(row.Completed), 
@@ -86,7 +91,7 @@
           'controlType': 'CategoryFilter',
           'containerId': 'filter_div',
           'options': {
-            'filterColumnLabel': 'Airport_Airline'
+            'filterColumnLabel': 'Terminal'
           }
         });
   
@@ -105,7 +110,7 @@
         dashboard.bind(tableFilter, tableChart);
 
         var view = new google.visualization.DataView(data);
-        document.getElementById("filter_div").style.display = "none";
+        //document.getElementById("filter_div").style.display = "none";
         dashboard.draw(view);
 
         //Update time info
@@ -129,8 +134,6 @@
       <select id="year_month" onchange="drawTable()">
         <option value="current-quarter">current quarter
           <option value="2023-Q4">2023-Q4          
-        <option value="2023-Q3">2023-Q3
-        <option value="2023-Q2">2023-Q2
       </select>
     </div>
     <br>

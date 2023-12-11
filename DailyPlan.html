@@ -9,7 +9,7 @@
     <script src="scripts/PrepareData.js"></script>
 		<script src="scripts/CalculateData.js"></script>
     <script src="scripts/flight_search.js"></script>
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BUD_Commercial/data/interview_data.js"></script> 
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur_v2/DXB_PS/interview_statistics.js"></script> 
 
     <link href="css/styles.css" rel ="stylesheet" type="text/css" />
     <style>
@@ -67,9 +67,9 @@
         var data = new google.visualization.DataTable();
 
         data.addColumn('string', 'Time');
+        data.addColumn('string', 'Terminal');
         data.addColumn('string', 'Flight');
         data.addColumn('string', 'To');
-        data.addColumn('string', 'Schengen');
         //data.addColumn('string', 'DOOP');
         data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
@@ -83,8 +83,10 @@
         for (i = 0; i < daily_plan_data.length; i++) {
           var row = daily_plan_data[i];
             { 
-                data.addRows([[row.Date_Time, 
-                row.Flight, row.DestName,  row.Schengen,
+                data.addRows([[
+                row.Date_Time, 
+                row.Terminal,                
+                row.Flight, row.DestName, 
                 //row.doop, 
                 Number(row.remaining_flights), 
                 Number(row.Quota), Number(row.Completed), Number(row.Difference), 
@@ -114,10 +116,10 @@
 
         //create fiter
         var options = {
-          'filterColumnLabel': 'Schengen',
+          'filterColumnLabel': 'Terminal',
           "ui": {"label": "", 
                 "labelStacking": 'horizotal',
-                "caption": "Filter by Schengen/Non-Schengen",
+                "caption": "Filter by Terminal",
                 }
         };
         

@@ -14,11 +14,11 @@ function CalculateAirportAirLineReport() {
   var not_in_quota_list =[];
   for (i = 0; i < interview_data.length; i++) 
   {
-    total_completed++;
+    total_completed = total_completed +   parseInt(interview_data[i].Completed_of_interviews);    
     found_temp = 0;
     for (j = 0; j < quota_data.length; j++) 
     {
-      if (quota_data[j].Airport_Airline.toUpperCase() == interview_data[i].Airport_Airline.toUpperCase()) 
+      if (quota_data[j].quota_id.toUpperCase() == interview_data[i].quota_id.toUpperCase()) 
       { 
         found_temp = 1;
       }
@@ -33,9 +33,9 @@ function CalculateAirportAirLineReport() {
     row.Completed = 0;
 
     for (j = 0; j < interview_data.length; j++) {
-      if (row.Airport_Airline.toUpperCase() == interview_data[j].Airport_Airline.toUpperCase()) 
+      if (row.quota_id.toUpperCase() == interview_data[j].quota_id.toUpperCase()) 
       { 
-        row.Completed++;
+        row.Completed = row.Completed  + parseInt(interview_data[j].Completed_of_interviews);
       }
     }
 
@@ -61,7 +61,7 @@ function CalculateAirportAirLineReport() {
   for (i = 0; i < daily_plan_data.length; i++) {//airport_airline_report.length;
     row = daily_plan_data[i];
     for (j = 0; j < quota_data.length; j++) {
-      if (row.Airport_Airline.toUpperCase() == quota_data[j].Airport_Airline.toUpperCase()) 
+      if (row.quota_id.toUpperCase() == quota_data[j].quota_id.toUpperCase()) 
       {
         if ( quota_data[j].Difference < 0) {
           row.remaining_flights = quota_data[j].remaining_flights;
@@ -139,7 +139,7 @@ function CalculateDOOP() {
 
     var remaining_flights = 0;
     for (j = 0; j < this_month_flight_list.length; j++) {
-      if (quota_data[i].Airport_Airline.toUpperCase() == this_month_flight_list[j].Airport_Airline.toUpperCase()) 
+      if (quota_data[i].quota_id.toUpperCase() == this_month_flight_list[j].quota_id.toUpperCase()) 
       {
         //get remaining_flights
         if (isNotThePastDate(this_month_flight_list[j].Date)) {
