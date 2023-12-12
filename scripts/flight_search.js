@@ -34,7 +34,7 @@ function flight_in_list_found(list, item) {
 }
 
 function notDeparted_flight_search(flight_time) {
-  var current_time = new Date().toLocaleString('en-US', { timeZone: 'Europe/Budapest', hour12: false});
+  var current_time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dubai', hour12: false});
   //15:13:27
   var current_time_value  = current_time.substring(current_time.length-8,current_time.length-6) * 60;
   current_time_value += current_time.substring(current_time.length-5,current_time.length-3)*1;
