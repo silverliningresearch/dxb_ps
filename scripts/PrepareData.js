@@ -19,6 +19,7 @@ var total_quota_completed;
 var total_hard_quota;
 var total_quota;
 
+var quota_report_version;
 /************************************/
 function initCurrentTimeVars() {
   var today = new Date();
@@ -58,15 +59,18 @@ function initCurrentTimeVars() {
   switch(currentQuarter) {
     case "2023-Q4":
       total_quota = 3000;
+      quota_report_version = 1;
       break;      
     case "2024-Q1":
+    case "2024-Q2":      
+    case "2024-Q3":
+    case "2024-Q4":          
       total_quota = 1000;
-      break;
-    case "2024-Q4":
-      total_quota = 1000;
+      quota_report_version = 2;      
       break;
     default:
       total_quota = 1000;
+
       break;
   }
 
@@ -153,7 +157,15 @@ function prepareInterviewData() {
     if (currentQuarter == interview_quarter)
     {
       if (interview["quota_id"]) {
-        var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
+        var quota_id;
+
+        if (quota_report_version == 1) {
+          quota_id = '"quota_id"' + ":" + '"' +  interview["Flight"] + '", ';
+        }
+        else
+        {
+          quota_id = '"quota_id"' + ":" + '"' +  interview["Airline"] + "-" +  interview["Dest"] +   '", ';
+        }
         var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"] + '", ';
         var Completed_of_interviews = '"Completed_of_interviews"' + ":" + '"' +  interview["Number of interviews"] ;
         
@@ -175,9 +187,14 @@ function prepareInterviewData() {
   for (i = 0; i < flight_list_full.length; i++) {
     let flight = flight_list_full[i];
 
-    //airport_airline
-    flight.quota_id = flight.Flight;//code for compare
-
+    //quota id
+    if (quota_report_version == 1) {
+      flight.quota_id = flight.Flight;//code for compare
+    }
+    else
+    {
+      flight.quota_id = flight.AirlineCode + "-" + flight.Dest;//airport_airline
+    }
     //currentQuarter: 02-2023
     //flight.Date: 08-02-2023
     if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5), flight.Date.substring(6,10))) { 
