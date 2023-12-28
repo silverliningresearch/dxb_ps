@@ -70,10 +70,10 @@ function initCurrentTimeVars() {
       break;
     default:
       total_quota = 1000;
-
       break;
   }
-
+  
+  console.log("currentQuarter: ", currentQuarter);
 }
 
 function getQuarterFromMonth(month, year)
@@ -229,5 +229,5 @@ function prepareInterviewData() {
        }
     }
   }
-   console.log("quota_data: ", quota_data);
+   //console.log("quota_data: ", quota_data);
 }
