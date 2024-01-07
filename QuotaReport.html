@@ -58,8 +58,8 @@
         var data = new google.visualization.DataTable();
 
         //define header
-        data.addColumn('string', 'Terminal');
-        data.addColumn('string', 'Flight Number/Airline-Destination');
+        //data.addColumn('string', 'Terminal');
+        data.addColumn('string', 'Airline-Dest.');
         data.addColumn('string', 'Destination');
         data.addColumn('number', 'Remaining Flights');                
         data.addColumn('number', 'Quota');
@@ -72,7 +72,7 @@
           var row = quota_data[i];
           data.addRows([
           [
-            row.Terminal,
+            //row.Terminal,
             row.quota_id, 
             row.Dest,
             Number(row.remaining_flights), 
@@ -93,7 +93,7 @@
           'controlType': 'CategoryFilter',
           'containerId': 'filter_div',
           'options': {
-            'filterColumnLabel': 'Terminal'
+            'filterColumnLabel': 'Destination'
           }
         });
   
@@ -136,7 +136,6 @@
       <select id="year_month" onchange="drawTable()">
         <option value="current-quarter">current quarter
           <option value="2024-Q1">2024-Q1          
-          <option value="2023-Q4">2023-Q4                      
       </select>
     </div>
     <br>

@@ -164,7 +164,7 @@ function prepareInterviewData() {
         }
         else
         {
-          quota_id = '"quota_id"' + ":" + '"' +  interview["Airline"] + "-" +  interview["Dest"] +   '", ';
+          quota_id = '"quota_id"' + ":" + '"' +  interview["AirlineCode"] + "-" +  interview["DestCode"] +   '", ';
         }
         var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"] + '", ';
         var Completed_of_interviews = '"Completed_of_interviews"' + ":" + '"' +  interview["Number of interviews"] ;
