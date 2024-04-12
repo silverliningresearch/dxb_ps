@@ -70,6 +70,7 @@ function initCurrentTimeVars() {
       break;
     default:
       total_quota = 1000;
+      quota_report_version = 2;            
       break;
   }
   
