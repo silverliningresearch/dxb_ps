@@ -2,7 +2,7 @@
 [
     {
         "Date": "01-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -13,7 +13,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -24,7 +24,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -35,7 +35,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -46,7 +46,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -57,7 +57,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -68,7 +68,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -79,7 +79,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -90,7 +90,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -101,7 +101,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -112,7 +112,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -123,7 +123,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -134,7 +134,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -145,7 +145,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -156,7 +156,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -167,7 +167,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -178,7 +178,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -189,7 +189,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -200,7 +200,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -211,7 +211,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -222,7 +222,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -233,7 +233,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -244,7 +244,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -255,7 +255,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -266,7 +266,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -277,7 +277,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -288,7 +288,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -299,7 +299,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -310,7 +310,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -321,7 +321,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -332,7 +332,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -343,7 +343,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -354,7 +354,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -365,7 +365,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -376,7 +376,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -970,7 +970,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -981,7 +981,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -992,7 +992,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -1003,7 +1003,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -1014,7 +1014,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -1025,7 +1025,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -1036,7 +1036,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -1047,7 +1047,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -1058,7 +1058,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -1069,7 +1069,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -1080,7 +1080,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -1091,7 +1091,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -1102,7 +1102,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -1113,7 +1113,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -1124,7 +1124,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -1135,7 +1135,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -1146,7 +1146,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -1157,7 +1157,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -1168,7 +1168,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -1179,7 +1179,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -1190,7 +1190,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -1201,7 +1201,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -1212,7 +1212,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -1223,7 +1223,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -1234,7 +1234,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -1245,7 +1245,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -1256,7 +1256,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -1267,7 +1267,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -1278,7 +1278,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -1289,7 +1289,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -1300,7 +1300,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -1311,7 +1311,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -1322,7 +1322,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -1333,7 +1333,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -1344,7 +1344,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -1993,7 +1993,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -2004,7 +2004,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -2015,7 +2015,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -2026,7 +2026,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -2037,7 +2037,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -2048,7 +2048,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -2059,7 +2059,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -2070,7 +2070,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -2081,7 +2081,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -2092,7 +2092,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -2103,7 +2103,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -2114,7 +2114,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -2125,7 +2125,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -2136,7 +2136,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -2147,7 +2147,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -2158,7 +2158,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -2169,7 +2169,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -2180,7 +2180,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -2191,7 +2191,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -2202,7 +2202,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -2213,7 +2213,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -2224,7 +2224,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -2235,7 +2235,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -2246,7 +2246,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -2257,7 +2257,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -2268,7 +2268,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -2279,7 +2279,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -2290,7 +2290,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -2301,7 +2301,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -2312,7 +2312,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -2323,7 +2323,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -2334,7 +2334,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -2345,7 +2345,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -2356,7 +2356,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -2367,7 +2367,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -2378,7 +2378,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -2389,7 +2389,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -2400,7 +2400,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -2411,7 +2411,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -3016,7 +3016,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -3027,7 +3027,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -3038,7 +3038,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -3049,7 +3049,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -3060,7 +3060,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -3071,7 +3071,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -3082,7 +3082,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -3093,7 +3093,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -3104,7 +3104,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -3115,7 +3115,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -3126,7 +3126,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -3137,7 +3137,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -3148,7 +3148,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -3159,7 +3159,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -3170,7 +3170,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -3181,7 +3181,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -3192,7 +3192,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -3203,7 +3203,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -3214,7 +3214,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -3225,7 +3225,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -3236,7 +3236,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -3247,7 +3247,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -3258,7 +3258,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -3269,7 +3269,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -3280,7 +3280,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -3291,7 +3291,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -3302,7 +3302,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -3313,7 +3313,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -3324,7 +3324,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -3335,7 +3335,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -3346,7 +3346,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -3929,7 +3929,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -3940,7 +3940,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -3951,7 +3951,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -3962,7 +3962,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -3973,7 +3973,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -3984,7 +3984,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -3995,7 +3995,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -4006,7 +4006,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -4017,7 +4017,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -4028,7 +4028,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -4039,7 +4039,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -4050,7 +4050,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -4061,7 +4061,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -4072,7 +4072,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -4083,7 +4083,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -4094,7 +4094,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -4105,7 +4105,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -4116,7 +4116,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -4127,7 +4127,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -4138,7 +4138,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -4149,7 +4149,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -4160,7 +4160,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -4171,7 +4171,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -4182,7 +4182,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -4193,7 +4193,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -4204,7 +4204,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -4215,7 +4215,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -4226,7 +4226,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -4237,7 +4237,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -4248,7 +4248,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -4259,7 +4259,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -4270,7 +4270,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -4919,7 +4919,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -4930,7 +4930,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -4941,7 +4941,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -4952,7 +4952,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -4963,7 +4963,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -4974,7 +4974,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -4985,7 +4985,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -4996,7 +4996,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -5007,7 +5007,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -5018,7 +5018,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -5029,7 +5029,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -5040,7 +5040,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -5051,7 +5051,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -5062,7 +5062,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -5073,7 +5073,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -5084,7 +5084,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -5095,7 +5095,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -5106,7 +5106,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -5117,7 +5117,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -5128,7 +5128,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -5139,7 +5139,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -5150,7 +5150,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -5161,7 +5161,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -5172,7 +5172,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -5183,7 +5183,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -5194,7 +5194,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -5205,7 +5205,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -5216,7 +5216,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -5227,7 +5227,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -5238,7 +5238,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -5249,7 +5249,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -5260,7 +5260,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -5271,7 +5271,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -5282,7 +5282,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -5293,7 +5293,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -5304,7 +5304,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -5865,7 +5865,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -5876,7 +5876,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -5887,7 +5887,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -5898,7 +5898,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -5909,7 +5909,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -5920,7 +5920,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -5931,7 +5931,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -5942,7 +5942,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -5953,7 +5953,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -5964,7 +5964,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -5975,7 +5975,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -5986,7 +5986,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -5997,7 +5997,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -6008,7 +6008,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -6019,7 +6019,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -6030,7 +6030,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -6041,7 +6041,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -6052,7 +6052,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -6063,7 +6063,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -6074,7 +6074,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -6085,7 +6085,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -6096,7 +6096,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -6107,7 +6107,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -6118,7 +6118,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -6129,7 +6129,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -6140,7 +6140,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -6151,7 +6151,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -6162,7 +6162,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -6173,7 +6173,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -6184,7 +6184,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -6195,7 +6195,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -6811,7 +6811,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -6822,7 +6822,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -6833,7 +6833,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -6844,7 +6844,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -6855,7 +6855,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -6866,7 +6866,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -6877,7 +6877,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -6888,7 +6888,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -6899,7 +6899,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -6910,7 +6910,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -6921,7 +6921,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -6932,7 +6932,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -6943,7 +6943,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -6954,7 +6954,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -6965,7 +6965,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -6976,7 +6976,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -6987,7 +6987,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -6998,7 +6998,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -7009,7 +7009,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -7020,7 +7020,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -7031,7 +7031,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -7042,7 +7042,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -7053,7 +7053,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -7064,7 +7064,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -7075,7 +7075,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -7086,7 +7086,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -7097,7 +7097,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -7108,7 +7108,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -7119,7 +7119,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -7130,7 +7130,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -7141,7 +7141,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -7152,7 +7152,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -7163,7 +7163,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -7174,7 +7174,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -7185,7 +7185,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -7790,7 +7790,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -7801,7 +7801,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -7812,7 +7812,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -7823,7 +7823,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -7834,7 +7834,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -7845,7 +7845,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -7856,7 +7856,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -7867,7 +7867,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -7878,7 +7878,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -7889,7 +7889,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -7900,7 +7900,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -7911,7 +7911,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -7922,7 +7922,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -7933,7 +7933,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -7944,7 +7944,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -7955,7 +7955,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -7966,7 +7966,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -7977,7 +7977,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -7988,7 +7988,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -7999,7 +7999,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -8010,7 +8010,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -8021,7 +8021,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -8032,7 +8032,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -8043,7 +8043,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -8054,7 +8054,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -8065,7 +8065,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -8076,7 +8076,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -8087,7 +8087,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -8098,7 +8098,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -8109,7 +8109,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -8120,7 +8120,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -8131,7 +8131,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -8142,7 +8142,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -8153,7 +8153,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -8164,7 +8164,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -8824,7 +8824,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -8835,7 +8835,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -8846,7 +8846,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -8857,7 +8857,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -8868,7 +8868,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -8879,7 +8879,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -8890,7 +8890,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -8901,7 +8901,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -8912,7 +8912,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -8923,7 +8923,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -8934,7 +8934,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -8945,7 +8945,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -8956,7 +8956,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -8967,7 +8967,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -8978,7 +8978,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -8989,7 +8989,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -9000,7 +9000,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -9011,7 +9011,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -9022,7 +9022,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -9033,7 +9033,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -9044,7 +9044,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -9055,7 +9055,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -9066,7 +9066,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -9077,7 +9077,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -9088,7 +9088,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -9099,7 +9099,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -9110,7 +9110,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -9121,7 +9121,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -9132,7 +9132,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -9143,7 +9143,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -9154,7 +9154,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -9165,7 +9165,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -9176,7 +9176,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -9187,7 +9187,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -9198,7 +9198,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -9209,7 +9209,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -9220,7 +9220,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -9231,7 +9231,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -9242,7 +9242,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -9836,7 +9836,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -9847,7 +9847,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -9858,7 +9858,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -9869,7 +9869,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -9880,7 +9880,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -9891,7 +9891,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -9902,7 +9902,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -9913,7 +9913,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -9924,7 +9924,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -9935,7 +9935,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -9946,7 +9946,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -9957,7 +9957,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -9968,7 +9968,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -9979,7 +9979,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -9990,7 +9990,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -10001,7 +10001,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -10012,7 +10012,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -10023,7 +10023,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -10034,7 +10034,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -10045,7 +10045,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -10056,7 +10056,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -10067,7 +10067,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -10078,7 +10078,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -10089,7 +10089,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -10100,7 +10100,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -10111,7 +10111,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -10122,7 +10122,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -10133,7 +10133,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -10144,7 +10144,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -10155,7 +10155,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -10166,7 +10166,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -10738,7 +10738,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -10749,7 +10749,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -10760,7 +10760,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -10771,7 +10771,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -10782,7 +10782,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -10793,7 +10793,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -10804,7 +10804,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -10815,7 +10815,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -10826,7 +10826,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -10837,7 +10837,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -10848,7 +10848,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -10859,7 +10859,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -10870,7 +10870,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -10881,7 +10881,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -10892,7 +10892,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -10903,7 +10903,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -10914,7 +10914,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -10925,7 +10925,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -10936,7 +10936,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -10947,7 +10947,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -10958,7 +10958,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -10969,7 +10969,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -10980,7 +10980,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -10991,7 +10991,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -11002,7 +11002,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -11013,7 +11013,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -11024,7 +11024,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -11035,7 +11035,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -11046,7 +11046,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -11057,7 +11057,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -11068,7 +11068,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -11079,7 +11079,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -11728,7 +11728,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -11739,7 +11739,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -11750,7 +11750,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -11761,7 +11761,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -11772,7 +11772,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -11783,7 +11783,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -11794,7 +11794,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -11805,7 +11805,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -11816,7 +11816,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -11827,7 +11827,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -11838,7 +11838,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -11849,7 +11849,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -11860,7 +11860,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -11871,7 +11871,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -11882,7 +11882,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -11893,7 +11893,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -11904,7 +11904,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -11915,7 +11915,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -11926,7 +11926,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -11937,7 +11937,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -11948,7 +11948,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -11959,7 +11959,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -11970,7 +11970,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -11981,7 +11981,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -11992,7 +11992,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -12003,7 +12003,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -12014,7 +12014,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -12025,7 +12025,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -12036,7 +12036,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -12047,7 +12047,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -12058,7 +12058,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -12069,7 +12069,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -12080,7 +12080,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -12091,7 +12091,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -12102,7 +12102,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -12113,7 +12113,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -12674,7 +12674,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -12685,7 +12685,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -12696,7 +12696,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -12707,7 +12707,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -12718,7 +12718,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -12729,7 +12729,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -12740,7 +12740,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -12751,7 +12751,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -12762,7 +12762,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -12773,7 +12773,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -12784,7 +12784,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -12795,7 +12795,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -12806,7 +12806,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -12817,7 +12817,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -12828,7 +12828,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -12839,7 +12839,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -12850,7 +12850,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -12861,7 +12861,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -12872,7 +12872,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -12883,7 +12883,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -12894,7 +12894,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -12905,7 +12905,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -12916,7 +12916,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -12927,7 +12927,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -12938,7 +12938,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -12949,7 +12949,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -12960,7 +12960,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -12971,7 +12971,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -12982,7 +12982,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -12993,7 +12993,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -13004,7 +13004,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -13620,7 +13620,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -13631,7 +13631,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -13642,7 +13642,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -13653,7 +13653,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -13664,7 +13664,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -13675,7 +13675,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -13686,7 +13686,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -13697,7 +13697,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -13708,7 +13708,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -13719,7 +13719,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -13730,7 +13730,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -13741,7 +13741,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -13752,7 +13752,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -13763,7 +13763,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -13774,7 +13774,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -13785,7 +13785,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -13796,7 +13796,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -13807,7 +13807,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -13818,7 +13818,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -13829,7 +13829,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -13840,7 +13840,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -13851,7 +13851,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -13862,7 +13862,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -13873,7 +13873,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -13884,7 +13884,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -13895,7 +13895,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -13906,7 +13906,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -13917,7 +13917,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -13928,7 +13928,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -13939,7 +13939,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -13950,7 +13950,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -13961,7 +13961,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -13972,7 +13972,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -13983,7 +13983,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -13994,7 +13994,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -14599,7 +14599,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -14610,7 +14610,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -14621,7 +14621,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -14632,7 +14632,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -14643,7 +14643,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -14654,7 +14654,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -14665,7 +14665,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -14676,7 +14676,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -14687,7 +14687,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -14698,7 +14698,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -14709,7 +14709,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -14720,7 +14720,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -14731,7 +14731,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -14742,7 +14742,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -14753,7 +14753,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -14764,7 +14764,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -14775,7 +14775,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -14786,7 +14786,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -14797,7 +14797,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -14808,7 +14808,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -14819,7 +14819,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -14830,7 +14830,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -14841,7 +14841,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -14852,7 +14852,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -14863,7 +14863,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -14874,7 +14874,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -14885,7 +14885,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -14896,7 +14896,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -14907,7 +14907,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -14918,7 +14918,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -14929,7 +14929,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -14940,7 +14940,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -14951,7 +14951,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -14962,7 +14962,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -14973,7 +14973,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -14984,7 +14984,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -15644,7 +15644,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -15655,7 +15655,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -15666,7 +15666,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -15677,7 +15677,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -15688,7 +15688,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -15699,7 +15699,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -15710,7 +15710,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -15721,7 +15721,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -15732,7 +15732,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -15743,7 +15743,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -15754,7 +15754,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -15765,7 +15765,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -15776,7 +15776,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -15787,7 +15787,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -15798,7 +15798,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -15809,7 +15809,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -15820,7 +15820,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -15831,7 +15831,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -15842,7 +15842,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -15853,7 +15853,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -15864,7 +15864,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -15875,7 +15875,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -15886,7 +15886,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -15897,7 +15897,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -15908,7 +15908,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -15919,7 +15919,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -15930,7 +15930,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -15941,7 +15941,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -15952,7 +15952,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -15963,7 +15963,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -15974,7 +15974,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -15985,7 +15985,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -15996,7 +15996,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -16007,7 +16007,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -16018,7 +16018,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -16029,7 +16029,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -16040,7 +16040,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -16051,7 +16051,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -16062,7 +16062,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -16667,7 +16667,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -16678,7 +16678,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -16689,7 +16689,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -16700,7 +16700,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -16711,7 +16711,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -16722,7 +16722,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -16733,7 +16733,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -16744,7 +16744,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -16755,7 +16755,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -16766,7 +16766,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -16777,7 +16777,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -16788,7 +16788,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -16799,7 +16799,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -16810,7 +16810,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -16821,7 +16821,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -16832,7 +16832,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -16843,7 +16843,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -16854,7 +16854,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -16865,7 +16865,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -16876,7 +16876,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -16887,7 +16887,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -16898,7 +16898,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -16909,7 +16909,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -16920,7 +16920,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -16931,7 +16931,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -16942,7 +16942,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -16953,7 +16953,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -16964,7 +16964,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -16975,7 +16975,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -16986,7 +16986,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -16997,7 +16997,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -17569,7 +17569,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -17580,7 +17580,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -17591,7 +17591,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -17602,7 +17602,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -17613,7 +17613,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -17624,7 +17624,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -17635,7 +17635,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -17646,7 +17646,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -17657,7 +17657,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -17668,7 +17668,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -17679,7 +17679,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -17690,7 +17690,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -17701,7 +17701,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -17712,7 +17712,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -17723,7 +17723,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -17734,7 +17734,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -17745,7 +17745,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -17756,7 +17756,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -17767,7 +17767,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -17778,7 +17778,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -17789,7 +17789,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -17800,7 +17800,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -17811,7 +17811,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -17822,7 +17822,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -17833,7 +17833,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -17844,7 +17844,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -17855,7 +17855,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -17866,7 +17866,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -17877,7 +17877,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -17888,7 +17888,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -17899,7 +17899,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -17910,7 +17910,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -18559,7 +18559,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -18570,7 +18570,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -18581,7 +18581,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -18592,7 +18592,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -18603,7 +18603,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -18614,7 +18614,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -18625,7 +18625,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -18636,7 +18636,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -18647,7 +18647,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -18658,7 +18658,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -18669,7 +18669,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -18680,7 +18680,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -18691,7 +18691,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -18702,7 +18702,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -18713,7 +18713,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -18724,7 +18724,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -18735,7 +18735,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -18746,7 +18746,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -18757,7 +18757,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -18768,7 +18768,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -18779,7 +18779,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -18790,7 +18790,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -18801,7 +18801,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -18812,7 +18812,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -18823,7 +18823,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -18834,7 +18834,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -18845,7 +18845,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -18856,7 +18856,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -18867,7 +18867,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -18878,7 +18878,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -18889,7 +18889,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -18900,7 +18900,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -18911,7 +18911,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -18922,7 +18922,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -18933,7 +18933,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -18944,7 +18944,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -19494,7 +19494,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -19505,7 +19505,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -19516,7 +19516,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -19527,7 +19527,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -19538,7 +19538,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -19549,7 +19549,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -19560,7 +19560,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -19571,7 +19571,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -19582,7 +19582,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -19593,7 +19593,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -19604,7 +19604,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -19615,7 +19615,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -19626,7 +19626,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -19637,7 +19637,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -19648,7 +19648,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -19659,7 +19659,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -19670,7 +19670,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -19681,7 +19681,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -19692,7 +19692,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -19703,7 +19703,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -19714,7 +19714,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -19725,7 +19725,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -19736,7 +19736,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -19747,7 +19747,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -19758,7 +19758,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -19769,7 +19769,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -19780,7 +19780,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -19791,7 +19791,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -19802,7 +19802,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -19813,7 +19813,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -19824,7 +19824,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -20429,7 +20429,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -20440,7 +20440,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -20451,7 +20451,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -20462,7 +20462,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -20473,7 +20473,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -20484,7 +20484,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -20495,7 +20495,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -20506,7 +20506,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -20517,7 +20517,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -20528,7 +20528,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -20539,7 +20539,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -20550,7 +20550,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -20561,7 +20561,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -20572,7 +20572,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -20583,7 +20583,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -20594,7 +20594,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -20605,7 +20605,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -20616,7 +20616,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -20627,7 +20627,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -20638,7 +20638,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -20649,7 +20649,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -20660,7 +20660,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -20671,7 +20671,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -20682,7 +20682,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -20693,7 +20693,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -20704,7 +20704,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -20715,7 +20715,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -20726,7 +20726,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -20737,7 +20737,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -20748,7 +20748,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -20759,7 +20759,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -20770,7 +20770,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -20781,7 +20781,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -20792,7 +20792,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -20803,7 +20803,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -21408,7 +21408,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -21419,7 +21419,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -21430,7 +21430,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -21441,7 +21441,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -21452,7 +21452,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -21463,7 +21463,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -21474,7 +21474,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -21485,7 +21485,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -21496,7 +21496,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -21507,7 +21507,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -21518,7 +21518,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -21529,7 +21529,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -21540,7 +21540,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -21551,7 +21551,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -21562,7 +21562,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -21573,7 +21573,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -21584,7 +21584,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -21595,7 +21595,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -21606,7 +21606,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -21617,7 +21617,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -21628,7 +21628,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -21639,7 +21639,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -21650,7 +21650,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -21661,7 +21661,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -21672,7 +21672,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -21683,7 +21683,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -21694,7 +21694,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -21705,7 +21705,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -21716,7 +21716,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -21727,7 +21727,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -21738,7 +21738,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -21749,7 +21749,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -21760,7 +21760,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -21771,7 +21771,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -21782,7 +21782,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -21793,7 +21793,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -22442,7 +22442,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -22453,7 +22453,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -22464,7 +22464,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -22475,7 +22475,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -22486,7 +22486,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -22497,7 +22497,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -22508,7 +22508,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -22519,7 +22519,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -22530,7 +22530,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -22541,7 +22541,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -22552,7 +22552,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -22563,7 +22563,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -22574,7 +22574,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -22585,7 +22585,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -22596,7 +22596,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -22607,7 +22607,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -22618,7 +22618,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -22629,7 +22629,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -22640,7 +22640,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -22651,7 +22651,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -22662,7 +22662,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -22673,7 +22673,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -22684,7 +22684,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -22695,7 +22695,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -22706,7 +22706,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -22717,7 +22717,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -22728,7 +22728,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -22739,7 +22739,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -22750,7 +22750,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -22761,7 +22761,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -22772,7 +22772,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -22783,7 +22783,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -22794,7 +22794,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -22805,7 +22805,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -22816,7 +22816,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -22827,7 +22827,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -22838,7 +22838,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -22849,7 +22849,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -22860,7 +22860,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -23465,7 +23465,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -23476,7 +23476,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -23487,7 +23487,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -23498,7 +23498,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -23509,7 +23509,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -23520,7 +23520,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -23531,7 +23531,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -23542,7 +23542,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -23553,7 +23553,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -23564,7 +23564,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -23575,7 +23575,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -23586,7 +23586,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -23597,7 +23597,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -23608,7 +23608,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -23619,7 +23619,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -23630,7 +23630,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -23641,7 +23641,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -23652,7 +23652,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -23663,7 +23663,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -23674,7 +23674,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -23685,7 +23685,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -23696,7 +23696,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -23707,7 +23707,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -23718,7 +23718,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -23729,7 +23729,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -23740,7 +23740,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -23751,7 +23751,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -23762,7 +23762,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -23773,7 +23773,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -23784,7 +23784,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -23795,7 +23795,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -24367,7 +24367,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -24378,7 +24378,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -24389,7 +24389,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -24400,7 +24400,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -24411,7 +24411,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -24422,7 +24422,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -24433,7 +24433,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -24444,7 +24444,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -24455,7 +24455,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -24466,7 +24466,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -24477,7 +24477,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -24488,7 +24488,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -24499,7 +24499,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -24510,7 +24510,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -24521,7 +24521,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -24532,7 +24532,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -24543,7 +24543,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -24554,7 +24554,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -24565,7 +24565,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -24576,7 +24576,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -24587,7 +24587,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -24598,7 +24598,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -24609,7 +24609,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -24620,7 +24620,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -24631,7 +24631,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -24642,7 +24642,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -24653,7 +24653,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -24664,7 +24664,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -24675,7 +24675,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -24686,7 +24686,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -24697,7 +24697,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -24708,7 +24708,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -25357,7 +25357,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -25368,7 +25368,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -25379,7 +25379,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -25390,7 +25390,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -25401,7 +25401,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -25412,7 +25412,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -25423,7 +25423,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -25434,7 +25434,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -25445,7 +25445,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -25456,7 +25456,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -25467,7 +25467,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -25478,7 +25478,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -25489,7 +25489,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -25500,7 +25500,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -25511,7 +25511,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -25522,7 +25522,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -25533,7 +25533,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -25544,7 +25544,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -25555,7 +25555,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -25566,7 +25566,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -25577,7 +25577,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -25588,7 +25588,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -25599,7 +25599,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -25610,7 +25610,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -25621,7 +25621,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -25632,7 +25632,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -25643,7 +25643,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -25654,7 +25654,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -25665,7 +25665,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -25676,7 +25676,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -25687,7 +25687,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -25698,7 +25698,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -25709,7 +25709,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -25720,7 +25720,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -25731,7 +25731,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -25742,7 +25742,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -26303,7 +26303,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -26314,7 +26314,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -26325,7 +26325,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -26336,7 +26336,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -26347,7 +26347,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -26358,7 +26358,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -26369,7 +26369,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -26380,7 +26380,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -26391,7 +26391,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -26402,7 +26402,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -26413,7 +26413,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -26424,7 +26424,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -26435,7 +26435,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -26446,7 +26446,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -26457,7 +26457,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -26468,7 +26468,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -26479,7 +26479,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -26490,7 +26490,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -26501,7 +26501,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -26512,7 +26512,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -26523,7 +26523,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -26534,7 +26534,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -26545,7 +26545,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -26556,7 +26556,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -26567,7 +26567,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -26578,7 +26578,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -26589,7 +26589,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -26600,7 +26600,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -26611,7 +26611,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -26622,7 +26622,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -26633,7 +26633,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -27249,7 +27249,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -27260,7 +27260,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -27271,7 +27271,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -27282,7 +27282,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -27293,7 +27293,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -27304,7 +27304,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -27315,7 +27315,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -27326,7 +27326,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -27337,7 +27337,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -27348,7 +27348,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -27359,7 +27359,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -27370,7 +27370,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -27381,7 +27381,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -27392,7 +27392,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -27403,7 +27403,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -27414,7 +27414,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -27425,7 +27425,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -27436,7 +27436,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -27447,7 +27447,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -27458,7 +27458,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -27469,7 +27469,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -27480,7 +27480,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -27491,7 +27491,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -27502,7 +27502,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -27513,7 +27513,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -27524,7 +27524,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -27535,7 +27535,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -27546,7 +27546,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -27557,7 +27557,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -27568,7 +27568,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -27579,7 +27579,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -27590,7 +27590,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -27601,7 +27601,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -27612,7 +27612,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -27623,7 +27623,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -28228,7 +28228,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -28239,7 +28239,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -28250,7 +28250,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -28261,7 +28261,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -28272,7 +28272,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -28283,7 +28283,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -28294,7 +28294,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -28305,7 +28305,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -28316,7 +28316,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -28327,7 +28327,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -28338,7 +28338,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -28349,7 +28349,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -28360,7 +28360,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -28371,7 +28371,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -28382,7 +28382,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -28393,7 +28393,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -28404,7 +28404,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -28415,7 +28415,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -28426,7 +28426,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -28437,7 +28437,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -28448,7 +28448,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -28459,7 +28459,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -28470,7 +28470,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -28481,7 +28481,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -28492,7 +28492,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -28503,7 +28503,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -28514,7 +28514,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -28525,7 +28525,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -28536,7 +28536,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -28547,7 +28547,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -28558,7 +28558,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -28569,7 +28569,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -28580,7 +28580,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -28591,7 +28591,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -28602,7 +28602,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -28613,7 +28613,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -29273,7 +29273,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -29284,7 +29284,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -29295,7 +29295,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -29306,7 +29306,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -29317,7 +29317,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -29328,7 +29328,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -29339,7 +29339,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -29350,7 +29350,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -29361,7 +29361,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -29372,7 +29372,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -29383,7 +29383,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -29394,7 +29394,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -29405,7 +29405,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -29416,7 +29416,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -29427,7 +29427,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -29438,7 +29438,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -29449,7 +29449,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -29460,7 +29460,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -29471,7 +29471,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -29482,7 +29482,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -29493,7 +29493,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -29504,7 +29504,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -29515,7 +29515,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -29526,7 +29526,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -29537,7 +29537,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -29548,7 +29548,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -30109,7 +30109,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -30120,7 +30120,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -30131,7 +30131,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -30142,7 +30142,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -30153,7 +30153,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -30164,7 +30164,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -30175,7 +30175,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -30186,7 +30186,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -30197,7 +30197,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -30208,7 +30208,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -30219,7 +30219,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -30230,7 +30230,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -30241,7 +30241,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -30252,7 +30252,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -30263,7 +30263,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -30274,7 +30274,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -30285,7 +30285,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -30296,7 +30296,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -30307,7 +30307,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -30318,7 +30318,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -30329,7 +30329,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -30340,7 +30340,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -30351,7 +30351,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -30362,7 +30362,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -30373,7 +30373,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -30384,7 +30384,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -30395,7 +30395,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -30406,7 +30406,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -30417,7 +30417,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -30945,7 +30945,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -30956,7 +30956,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -30967,7 +30967,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -30978,7 +30978,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -30989,7 +30989,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -31000,7 +31000,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -31011,7 +31011,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -31022,7 +31022,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -31033,7 +31033,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -31044,7 +31044,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -31055,7 +31055,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -31066,7 +31066,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -31077,7 +31077,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -31088,7 +31088,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -31099,7 +31099,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -31110,7 +31110,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -31121,7 +31121,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -31132,7 +31132,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -31143,7 +31143,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -31154,7 +31154,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -31165,7 +31165,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -31176,7 +31176,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -31187,7 +31187,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -31198,7 +31198,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -31209,7 +31209,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -31220,7 +31220,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -31231,7 +31231,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -31242,7 +31242,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -31803,7 +31803,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -31814,7 +31814,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -31825,7 +31825,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -31836,7 +31836,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -31847,7 +31847,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -31858,7 +31858,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -31869,7 +31869,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -31880,7 +31880,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -31891,7 +31891,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -31902,7 +31902,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -31913,7 +31913,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -31924,7 +31924,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -31935,7 +31935,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -31946,7 +31946,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -31957,7 +31957,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -31968,7 +31968,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -31979,7 +31979,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -31990,7 +31990,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -32001,7 +32001,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -32012,7 +32012,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -32023,7 +32023,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -32034,7 +32034,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -32045,7 +32045,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -32056,7 +32056,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -32067,7 +32067,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -32078,7 +32078,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -32089,7 +32089,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -32100,7 +32100,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -32111,7 +32111,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -32122,7 +32122,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -32133,7 +32133,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -32144,7 +32144,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -32155,7 +32155,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -32694,7 +32694,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -32705,7 +32705,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -32716,7 +32716,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -32727,7 +32727,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -32738,7 +32738,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -32749,7 +32749,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -32760,7 +32760,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -32771,7 +32771,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -32782,7 +32782,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -32793,7 +32793,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -32804,7 +32804,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -32815,7 +32815,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -32826,7 +32826,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -32837,7 +32837,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -32848,7 +32848,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -32859,7 +32859,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -32870,7 +32870,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -32881,7 +32881,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -32892,7 +32892,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -32903,7 +32903,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -32914,7 +32914,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -32925,7 +32925,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -32936,7 +32936,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -32947,7 +32947,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -32958,7 +32958,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -32969,7 +32969,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -33508,7 +33508,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -33519,7 +33519,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -33530,7 +33530,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -33541,7 +33541,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -33552,7 +33552,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -33563,7 +33563,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -33574,7 +33574,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -33585,7 +33585,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -33596,7 +33596,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -33607,7 +33607,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -33618,7 +33618,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -33629,7 +33629,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -33640,7 +33640,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -33651,7 +33651,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -33662,7 +33662,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -33673,7 +33673,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -33684,7 +33684,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -33695,7 +33695,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -33706,7 +33706,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -33717,7 +33717,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -33728,7 +33728,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -33739,7 +33739,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -33750,7 +33750,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -33761,7 +33761,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -33772,7 +33772,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -33783,7 +33783,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -33794,7 +33794,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -34355,7 +34355,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -34366,7 +34366,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -34377,7 +34377,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -34388,7 +34388,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -34399,7 +34399,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -34410,7 +34410,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -34421,7 +34421,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -34432,7 +34432,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -34443,7 +34443,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -34454,7 +34454,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -34465,7 +34465,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -34476,7 +34476,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -34487,7 +34487,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -34498,7 +34498,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -34509,7 +34509,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -34520,7 +34520,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -34531,7 +34531,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -34542,7 +34542,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -34553,7 +34553,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -34564,7 +34564,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -34575,7 +34575,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -34586,7 +34586,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -34597,7 +34597,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -34608,7 +34608,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -34619,7 +34619,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -34630,7 +34630,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -34641,7 +34641,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -34652,7 +34652,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -34663,7 +34663,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -34674,7 +34674,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -35213,7 +35213,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -35224,7 +35224,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -35235,7 +35235,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -35246,7 +35246,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -35257,7 +35257,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -35268,7 +35268,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -35279,7 +35279,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -35290,7 +35290,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -35301,7 +35301,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -35312,7 +35312,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -35323,7 +35323,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -35334,7 +35334,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -35345,7 +35345,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -35356,7 +35356,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -35367,7 +35367,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -35378,7 +35378,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -35389,7 +35389,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -35400,7 +35400,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -35411,7 +35411,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -35422,7 +35422,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -35433,7 +35433,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -35444,7 +35444,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -35455,7 +35455,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -35466,7 +35466,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -35994,7 +35994,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -36005,7 +36005,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -36016,7 +36016,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -36027,7 +36027,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -36038,7 +36038,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -36049,7 +36049,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -36060,7 +36060,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -36071,7 +36071,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -36082,7 +36082,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -36093,7 +36093,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -36104,7 +36104,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -36115,7 +36115,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -36126,7 +36126,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -36137,7 +36137,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -36148,7 +36148,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -36159,7 +36159,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -36170,7 +36170,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -36181,7 +36181,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -36192,7 +36192,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -36203,7 +36203,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -36214,7 +36214,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -36225,7 +36225,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -36236,7 +36236,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -36247,7 +36247,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -36258,7 +36258,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -36269,7 +36269,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -36280,7 +36280,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -36291,7 +36291,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -36830,7 +36830,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -36841,7 +36841,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -36852,7 +36852,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -36863,7 +36863,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -36874,7 +36874,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -36885,7 +36885,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -36896,7 +36896,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -36907,7 +36907,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -36918,7 +36918,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -36929,7 +36929,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -36940,7 +36940,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -36951,7 +36951,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -36962,7 +36962,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -36973,7 +36973,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -36984,7 +36984,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -36995,7 +36995,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -37006,7 +37006,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -37017,7 +37017,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -37028,7 +37028,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -37039,7 +37039,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -37050,7 +37050,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -37061,7 +37061,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -37072,7 +37072,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -37083,7 +37083,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -37094,7 +37094,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -37105,7 +37105,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -37116,7 +37116,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -37677,7 +37677,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -37688,7 +37688,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -37699,7 +37699,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -37710,7 +37710,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -37721,7 +37721,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -37732,7 +37732,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -37743,7 +37743,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -37754,7 +37754,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -37765,7 +37765,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -37776,7 +37776,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -37787,7 +37787,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -37798,7 +37798,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -37809,7 +37809,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -37820,7 +37820,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -37831,7 +37831,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -37842,7 +37842,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -37853,7 +37853,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -37864,7 +37864,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -37875,7 +37875,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -37886,7 +37886,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -37897,7 +37897,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -37908,7 +37908,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -37919,7 +37919,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -37930,7 +37930,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -37941,7 +37941,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -37952,7 +37952,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -37963,7 +37963,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -37974,7 +37974,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -37985,7 +37985,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -37996,7 +37996,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -38007,7 +38007,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -38018,7 +38018,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -38029,7 +38029,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -38568,7 +38568,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -38579,7 +38579,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -38590,7 +38590,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -38601,7 +38601,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -38612,7 +38612,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -38623,7 +38623,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -38634,7 +38634,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -38645,7 +38645,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -38656,7 +38656,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -38667,7 +38667,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -38678,7 +38678,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -38689,7 +38689,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -38700,7 +38700,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -38711,7 +38711,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -38722,7 +38722,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -38733,7 +38733,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -38744,7 +38744,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -38755,7 +38755,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -38766,7 +38766,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -38777,7 +38777,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -38788,7 +38788,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -38799,7 +38799,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -38810,7 +38810,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -38821,7 +38821,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -38832,7 +38832,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -39371,7 +39371,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -39382,7 +39382,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -39393,7 +39393,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -39404,7 +39404,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -39415,7 +39415,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -39426,7 +39426,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -39437,7 +39437,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -39448,7 +39448,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -39459,7 +39459,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -39470,7 +39470,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -39481,7 +39481,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -39492,7 +39492,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -39503,7 +39503,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -39514,7 +39514,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -39525,7 +39525,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -39536,7 +39536,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -39547,7 +39547,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -39558,7 +39558,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -39569,7 +39569,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -39580,7 +39580,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -39591,7 +39591,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -39602,7 +39602,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -39613,7 +39613,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -39624,7 +39624,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -39635,7 +39635,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -39646,7 +39646,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -40207,7 +40207,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -40218,7 +40218,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -40229,7 +40229,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -40240,7 +40240,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -40251,7 +40251,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -40262,7 +40262,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -40273,7 +40273,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -40284,7 +40284,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -40295,7 +40295,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -40306,7 +40306,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -40317,7 +40317,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -40328,7 +40328,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -40339,7 +40339,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -40350,7 +40350,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -40361,7 +40361,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -40372,7 +40372,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -40383,7 +40383,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -40394,7 +40394,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -40405,7 +40405,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -40416,7 +40416,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -40427,7 +40427,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -40438,7 +40438,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -40449,7 +40449,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -40460,7 +40460,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -40471,7 +40471,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -40482,7 +40482,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -40493,7 +40493,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -40504,7 +40504,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -40515,7 +40515,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -40526,7 +40526,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -41065,7 +41065,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -41076,7 +41076,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -41087,7 +41087,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -41098,7 +41098,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -41109,7 +41109,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -41120,7 +41120,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -41131,7 +41131,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -41142,7 +41142,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -41153,7 +41153,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -41164,7 +41164,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -41175,7 +41175,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -41186,7 +41186,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -41197,7 +41197,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -41208,7 +41208,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -41219,7 +41219,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -41230,7 +41230,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -41241,7 +41241,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -41252,7 +41252,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -41263,7 +41263,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -41274,7 +41274,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -41285,7 +41285,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -41296,7 +41296,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -41307,7 +41307,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -41318,7 +41318,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -41329,7 +41329,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -41857,7 +41857,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -41868,7 +41868,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -41879,7 +41879,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -41890,7 +41890,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -41901,7 +41901,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -41912,7 +41912,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -41923,7 +41923,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -41934,7 +41934,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -41945,7 +41945,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -41956,7 +41956,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -41967,7 +41967,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -41978,7 +41978,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -41989,7 +41989,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -42000,7 +42000,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -42011,7 +42011,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -42022,7 +42022,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -42033,7 +42033,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -42044,7 +42044,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -42055,7 +42055,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -42066,7 +42066,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -42077,7 +42077,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -42088,7 +42088,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -42099,7 +42099,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -42110,7 +42110,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -42121,7 +42121,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -42132,7 +42132,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -42143,7 +42143,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -42154,7 +42154,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -42704,7 +42704,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -42715,7 +42715,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -42726,7 +42726,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -42737,7 +42737,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -42748,7 +42748,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -42759,7 +42759,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -42770,7 +42770,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -42781,7 +42781,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -42792,7 +42792,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -42803,7 +42803,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -42814,7 +42814,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -42825,7 +42825,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -42836,7 +42836,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -42847,7 +42847,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -42858,7 +42858,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -42869,7 +42869,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -42880,7 +42880,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -42891,7 +42891,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -42902,7 +42902,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -42913,7 +42913,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -42924,7 +42924,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -42935,7 +42935,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -42946,7 +42946,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -42957,7 +42957,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -42968,7 +42968,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -42979,7 +42979,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -42990,7 +42990,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -43551,7 +43551,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -43562,7 +43562,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -43573,7 +43573,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -43584,7 +43584,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -43595,7 +43595,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -43606,7 +43606,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -43617,7 +43617,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -43628,7 +43628,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -43639,7 +43639,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -43650,7 +43650,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -43661,7 +43661,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -43672,7 +43672,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -43683,7 +43683,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -43694,7 +43694,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -43705,7 +43705,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -43716,7 +43716,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -43727,7 +43727,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -43738,7 +43738,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -43749,7 +43749,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -43760,7 +43760,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -43771,7 +43771,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -43782,7 +43782,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -43793,7 +43793,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -43804,7 +43804,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -43815,7 +43815,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -43826,7 +43826,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -43837,7 +43837,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -43848,7 +43848,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -43859,7 +43859,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -43870,7 +43870,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -43881,7 +43881,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -43892,7 +43892,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -44431,7 +44431,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -44442,7 +44442,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -44453,7 +44453,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -44464,7 +44464,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -44475,7 +44475,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -44486,7 +44486,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -44497,7 +44497,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -44508,7 +44508,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -44519,7 +44519,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -44530,7 +44530,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -44541,7 +44541,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -44552,7 +44552,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -44563,7 +44563,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -44574,7 +44574,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -44585,7 +44585,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -44596,7 +44596,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -44607,7 +44607,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -44618,7 +44618,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -44629,7 +44629,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -44640,7 +44640,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -44651,7 +44651,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -44662,7 +44662,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -44673,7 +44673,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -44684,7 +44684,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -44695,7 +44695,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -44706,7 +44706,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -45245,7 +45245,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -45256,7 +45256,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -45267,7 +45267,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -45278,7 +45278,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -45289,7 +45289,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -45300,7 +45300,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -45311,7 +45311,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -45322,7 +45322,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -45333,7 +45333,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -45344,7 +45344,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -45355,7 +45355,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -45366,7 +45366,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -45377,7 +45377,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -45388,7 +45388,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -45399,7 +45399,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -45410,7 +45410,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -45421,7 +45421,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -45432,7 +45432,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -45443,7 +45443,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -45454,7 +45454,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -45465,7 +45465,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -45476,7 +45476,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -45487,7 +45487,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -45498,7 +45498,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -45509,7 +45509,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -45520,7 +45520,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -45531,7 +45531,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -46081,7 +46081,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -46092,7 +46092,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -46103,7 +46103,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -46114,7 +46114,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -46125,7 +46125,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -46136,7 +46136,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -46147,7 +46147,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -46158,7 +46158,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -46169,7 +46169,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -46180,7 +46180,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -46191,7 +46191,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -46202,7 +46202,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -46213,7 +46213,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -46224,7 +46224,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -46235,7 +46235,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -46246,7 +46246,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -46257,7 +46257,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -46268,7 +46268,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -46279,7 +46279,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -46290,7 +46290,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -46301,7 +46301,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -46312,7 +46312,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -46323,7 +46323,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -46334,7 +46334,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -46345,7 +46345,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -46356,7 +46356,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -46367,7 +46367,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -46378,7 +46378,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -46389,7 +46389,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -46400,7 +46400,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -46411,7 +46411,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -46939,7 +46939,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -46950,7 +46950,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -46961,7 +46961,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -46972,7 +46972,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -46983,7 +46983,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -46994,7 +46994,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -47005,7 +47005,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -47016,7 +47016,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -47027,7 +47027,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -47038,7 +47038,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -47049,7 +47049,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -47060,7 +47060,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -47071,7 +47071,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -47082,7 +47082,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -47093,7 +47093,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -47104,7 +47104,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -47115,7 +47115,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -47126,7 +47126,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -47137,7 +47137,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -47148,7 +47148,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -47159,7 +47159,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -47170,7 +47170,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -47181,7 +47181,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -47192,7 +47192,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -47203,7 +47203,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -47214,7 +47214,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -47742,7 +47742,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -47753,7 +47753,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -47764,7 +47764,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -47775,7 +47775,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -47786,7 +47786,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -47797,7 +47797,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -47808,7 +47808,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -47819,7 +47819,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -47830,7 +47830,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -47841,7 +47841,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -47852,7 +47852,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -47863,7 +47863,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -47874,7 +47874,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -47885,7 +47885,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -47896,7 +47896,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -47907,7 +47907,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -47918,7 +47918,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -47929,7 +47929,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -47940,7 +47940,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -47951,7 +47951,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -47962,7 +47962,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -47973,7 +47973,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -47984,7 +47984,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -47995,7 +47995,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -48006,7 +48006,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -48017,7 +48017,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -48028,7 +48028,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -48039,7 +48039,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -48050,7 +48050,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -48600,7 +48600,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -48611,7 +48611,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -48622,7 +48622,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -48633,7 +48633,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -48644,7 +48644,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -48655,7 +48655,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -48666,7 +48666,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -48677,7 +48677,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -48688,7 +48688,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -48699,7 +48699,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -48710,7 +48710,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -48721,7 +48721,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -48732,7 +48732,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -48743,7 +48743,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -48754,7 +48754,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -48765,7 +48765,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -48776,7 +48776,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -48787,7 +48787,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -48798,7 +48798,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -48809,7 +48809,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -48820,7 +48820,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -48831,7 +48831,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -48842,7 +48842,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -48853,7 +48853,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -48864,7 +48864,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -48875,7 +48875,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -48886,7 +48886,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -48897,7 +48897,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -48908,7 +48908,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -49469,7 +49469,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -49480,7 +49480,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -49491,7 +49491,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -49502,7 +49502,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -49513,7 +49513,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -49524,7 +49524,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -49535,7 +49535,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -49546,7 +49546,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -49557,7 +49557,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -49568,7 +49568,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -49579,7 +49579,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -49590,7 +49590,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -49601,7 +49601,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -49612,7 +49612,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -49623,7 +49623,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -49634,7 +49634,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -49645,7 +49645,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -49656,7 +49656,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -49667,7 +49667,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -49678,7 +49678,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -49689,7 +49689,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -49700,7 +49700,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -49711,7 +49711,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -49722,7 +49722,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -49733,7 +49733,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -49744,7 +49744,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -49755,7 +49755,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -49766,7 +49766,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -49777,7 +49777,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -49788,7 +49788,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -49799,7 +49799,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -49810,7 +49810,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -49821,7 +49821,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -50371,7 +50371,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -50382,7 +50382,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -50393,7 +50393,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -50404,7 +50404,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -50415,7 +50415,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -50426,7 +50426,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -50437,7 +50437,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -50448,7 +50448,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -50459,7 +50459,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -50470,7 +50470,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -50481,7 +50481,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -50492,7 +50492,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -50503,7 +50503,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -50514,7 +50514,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -50525,7 +50525,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -50536,7 +50536,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -50547,7 +50547,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -50558,7 +50558,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -50569,7 +50569,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -50580,7 +50580,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -50591,7 +50591,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -50602,7 +50602,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -50613,7 +50613,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -50624,7 +50624,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -50635,7 +50635,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -50646,7 +50646,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -51174,7 +51174,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -51185,7 +51185,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -51196,7 +51196,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -51207,7 +51207,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -51218,7 +51218,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -51229,7 +51229,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -51240,7 +51240,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "155",
+        "Time": "0155",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -51251,7 +51251,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -51262,7 +51262,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -51273,7 +51273,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -51284,7 +51284,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -51295,7 +51295,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -51306,7 +51306,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -51317,7 +51317,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -51328,7 +51328,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -51339,7 +51339,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -51350,7 +51350,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -51361,7 +51361,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -51372,7 +51372,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -51383,7 +51383,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -51394,7 +51394,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -51405,7 +51405,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -51416,7 +51416,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -51427,7 +51427,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -51438,7 +51438,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -51449,7 +51449,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -51460,7 +51460,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -52010,7 +52010,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -52021,7 +52021,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -52032,7 +52032,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -52043,7 +52043,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -52054,7 +52054,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -52065,7 +52065,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -52076,7 +52076,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -52087,7 +52087,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -52098,7 +52098,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -52109,7 +52109,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -52120,7 +52120,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -52131,7 +52131,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -52142,7 +52142,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -52153,7 +52153,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -52164,7 +52164,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -52175,7 +52175,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -52186,7 +52186,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -52197,7 +52197,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -52208,7 +52208,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -52219,7 +52219,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -52230,7 +52230,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -52241,7 +52241,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -52252,7 +52252,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -52263,7 +52263,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -52274,7 +52274,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -52285,7 +52285,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -52296,7 +52296,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -52307,7 +52307,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -52318,7 +52318,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -52329,7 +52329,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -52868,7 +52868,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -52879,7 +52879,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -52890,7 +52890,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -52901,7 +52901,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -52912,7 +52912,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -52923,7 +52923,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -52934,7 +52934,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -52945,7 +52945,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -52956,7 +52956,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -52967,7 +52967,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -52978,7 +52978,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -52989,7 +52989,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -53000,7 +53000,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -53011,7 +53011,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -53022,7 +53022,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -53033,7 +53033,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -53044,7 +53044,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -53055,7 +53055,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -53066,7 +53066,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -53077,7 +53077,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -53088,7 +53088,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -53099,7 +53099,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -53110,7 +53110,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -53121,7 +53121,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -53132,7 +53132,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -53660,7 +53660,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -53671,7 +53671,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -53682,7 +53682,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -53693,7 +53693,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -53704,7 +53704,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -53715,7 +53715,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -53726,7 +53726,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -53737,7 +53737,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -53748,7 +53748,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -53759,7 +53759,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -53770,7 +53770,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -53781,7 +53781,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -53792,7 +53792,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -53803,7 +53803,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -53814,7 +53814,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -53825,7 +53825,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -53836,7 +53836,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -53847,7 +53847,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -53858,7 +53858,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -53869,7 +53869,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -53880,7 +53880,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -53891,7 +53891,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -53902,7 +53902,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -53913,7 +53913,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -53924,7 +53924,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -53935,7 +53935,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -53946,7 +53946,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -53957,7 +53957,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -54496,7 +54496,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -54507,7 +54507,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -54518,7 +54518,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -54529,7 +54529,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -54540,7 +54540,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -54551,7 +54551,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -54562,7 +54562,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -54573,7 +54573,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -54584,7 +54584,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -54595,7 +54595,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -54606,7 +54606,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -54617,7 +54617,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -54628,7 +54628,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -54639,7 +54639,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -54650,7 +54650,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -54661,7 +54661,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1507",
         "Airline": "Flydubai",
         "Dest": "(OLB)",
@@ -54672,7 +54672,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -54683,7 +54683,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -54694,7 +54694,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -54705,7 +54705,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -54716,7 +54716,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -54727,7 +54727,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -54738,7 +54738,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -54749,7 +54749,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -54760,7 +54760,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -54771,7 +54771,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -54782,7 +54782,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -54793,7 +54793,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -55354,7 +55354,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -55365,7 +55365,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -55376,7 +55376,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -55387,7 +55387,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -55398,7 +55398,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -55409,7 +55409,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -55420,7 +55420,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -55431,7 +55431,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -55442,7 +55442,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -55453,7 +55453,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -55464,7 +55464,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -55475,7 +55475,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -55486,7 +55486,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -55497,7 +55497,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -55508,7 +55508,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -55519,7 +55519,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -55530,7 +55530,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -55541,7 +55541,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -55552,7 +55552,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -55563,7 +55563,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -55574,7 +55574,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -55585,7 +55585,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -55596,7 +55596,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -55607,7 +55607,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -55618,7 +55618,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -55629,7 +55629,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -55640,7 +55640,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -55651,7 +55651,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -55662,7 +55662,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -55673,7 +55673,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -55684,7 +55684,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -55695,7 +55695,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -55706,7 +55706,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -55717,7 +55717,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -56256,7 +56256,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -56267,7 +56267,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -56278,7 +56278,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -56289,7 +56289,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -56300,7 +56300,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -56311,7 +56311,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -56322,7 +56322,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -56333,7 +56333,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -56344,7 +56344,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -56355,7 +56355,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -56366,7 +56366,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -56377,7 +56377,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -56388,7 +56388,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -56399,7 +56399,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -56410,7 +56410,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -56421,7 +56421,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -56432,7 +56432,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -56443,7 +56443,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -56454,7 +56454,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -56465,7 +56465,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -56476,7 +56476,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -56487,7 +56487,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -56498,7 +56498,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -56509,7 +56509,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -56520,7 +56520,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -56531,7 +56531,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -57026,7 +57026,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -57037,7 +57037,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -57048,7 +57048,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -57059,7 +57059,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -57070,7 +57070,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -57081,7 +57081,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -57092,7 +57092,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -57103,7 +57103,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -57114,7 +57114,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -57125,7 +57125,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -57136,7 +57136,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -57147,7 +57147,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -57158,7 +57158,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -57169,7 +57169,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -57180,7 +57180,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -57191,7 +57191,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -57202,7 +57202,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -57213,7 +57213,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -57224,7 +57224,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -57235,7 +57235,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -57246,7 +57246,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -57257,7 +57257,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -57268,7 +57268,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -57279,7 +57279,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -57840,7 +57840,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -57851,7 +57851,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -57862,7 +57862,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -57873,7 +57873,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -57884,7 +57884,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -57895,7 +57895,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -57906,7 +57906,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -57917,7 +57917,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -57928,7 +57928,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -57939,7 +57939,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -57950,7 +57950,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -57961,7 +57961,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -57972,7 +57972,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -57983,7 +57983,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -57994,7 +57994,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -58005,7 +58005,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -58016,7 +58016,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -58027,7 +58027,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -58038,7 +58038,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -58049,7 +58049,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -58060,7 +58060,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -58071,7 +58071,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -58082,7 +58082,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -58093,7 +58093,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -58104,7 +58104,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -58115,7 +58115,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -58126,7 +58126,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -58137,7 +58137,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -58148,7 +58148,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -58159,7 +58159,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -58170,7 +58170,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -58698,7 +58698,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -58709,7 +58709,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -58720,7 +58720,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -58731,7 +58731,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -58742,7 +58742,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -58753,7 +58753,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -58764,7 +58764,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -58775,7 +58775,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -58786,7 +58786,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -58797,7 +58797,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -58808,7 +58808,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -58819,7 +58819,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -58830,7 +58830,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -58841,7 +58841,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -58852,7 +58852,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -58863,7 +58863,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -58874,7 +58874,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "755",
+        "Time": "0755",
         "Flight": "FZ1075",
         "Airline": "Flydubai",
         "Dest": "(JMK)",
@@ -58885,7 +58885,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -58896,7 +58896,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -58907,7 +58907,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -58918,7 +58918,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -58929,7 +58929,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -58940,7 +58940,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -58951,7 +58951,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -58962,7 +58962,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -58973,7 +58973,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -58984,7 +58984,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -59490,7 +59490,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -59501,7 +59501,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -59512,7 +59512,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -59523,7 +59523,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -59534,7 +59534,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -59545,7 +59545,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -59556,7 +59556,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -59567,7 +59567,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -59578,7 +59578,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -59589,7 +59589,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -59600,7 +59600,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -59611,7 +59611,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -59622,7 +59622,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -59633,7 +59633,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -59644,7 +59644,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -59655,7 +59655,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -59666,7 +59666,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -59677,7 +59677,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -59688,7 +59688,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -59699,7 +59699,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -59710,7 +59710,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -59721,7 +59721,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -59732,7 +59732,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -59743,7 +59743,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -59754,7 +59754,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -59765,7 +59765,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -59776,7 +59776,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -59787,7 +59787,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -59798,7 +59798,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -59809,7 +59809,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -60370,7 +60370,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -60381,7 +60381,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -60392,7 +60392,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -60403,7 +60403,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -60414,7 +60414,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -60425,7 +60425,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -60436,7 +60436,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -60447,7 +60447,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -60458,7 +60458,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -60469,7 +60469,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -60480,7 +60480,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -60491,7 +60491,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -60502,7 +60502,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -60513,7 +60513,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -60524,7 +60524,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -60535,7 +60535,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -60546,7 +60546,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -60557,7 +60557,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -60568,7 +60568,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -60579,7 +60579,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -60590,7 +60590,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -60601,7 +60601,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -60612,7 +60612,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -60623,7 +60623,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -60634,7 +60634,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -60645,7 +60645,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -60656,7 +60656,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -60667,7 +60667,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -61206,7 +61206,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -61217,7 +61217,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -61228,7 +61228,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -61239,7 +61239,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -61250,7 +61250,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -61261,7 +61261,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -61272,7 +61272,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -61283,7 +61283,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -61294,7 +61294,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -61305,7 +61305,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -61316,7 +61316,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -61327,7 +61327,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -61338,7 +61338,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -61349,7 +61349,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -61360,7 +61360,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -61371,7 +61371,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -61382,7 +61382,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -61393,7 +61393,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -61404,7 +61404,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -61415,7 +61415,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -61426,7 +61426,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -61437,7 +61437,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -61448,7 +61448,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -61459,7 +61459,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -61470,7 +61470,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -61481,7 +61481,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -61492,7 +61492,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -61503,7 +61503,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -61514,7 +61514,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -61525,7 +61525,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -61536,7 +61536,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -61547,7 +61547,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -62097,7 +62097,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -62108,7 +62108,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -62119,7 +62119,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -62130,7 +62130,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -62141,7 +62141,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -62152,7 +62152,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -62163,7 +62163,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -62174,7 +62174,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -62185,7 +62185,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -62196,7 +62196,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -62207,7 +62207,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -62218,7 +62218,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -62229,7 +62229,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -62240,7 +62240,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -62251,7 +62251,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -62262,7 +62262,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -62273,7 +62273,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -62284,7 +62284,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -62295,7 +62295,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -62306,7 +62306,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -62317,7 +62317,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -62328,7 +62328,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -62339,7 +62339,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -62350,7 +62350,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -62361,7 +62361,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -62834,7 +62834,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -62845,7 +62845,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -62856,7 +62856,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -62867,7 +62867,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -62878,7 +62878,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -62889,7 +62889,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -62900,7 +62900,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -62911,7 +62911,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -62922,7 +62922,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -62933,7 +62933,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -62944,7 +62944,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -62955,7 +62955,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -62966,7 +62966,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -62977,7 +62977,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -62988,7 +62988,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -62999,7 +62999,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -63010,7 +63010,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -63021,7 +63021,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -63032,7 +63032,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -63043,7 +63043,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -63054,7 +63054,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -63065,7 +63065,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -63076,7 +63076,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -63087,7 +63087,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -63626,7 +63626,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -63637,7 +63637,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -63648,7 +63648,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -63659,7 +63659,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -63670,7 +63670,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -63681,7 +63681,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -63692,7 +63692,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -63703,7 +63703,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -63714,7 +63714,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -63725,7 +63725,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -63736,7 +63736,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -63747,7 +63747,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -63758,7 +63758,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -63769,7 +63769,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -63780,7 +63780,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -63791,7 +63791,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -63802,7 +63802,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -63813,7 +63813,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -63824,7 +63824,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -63835,7 +63835,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -63846,7 +63846,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -63857,7 +63857,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -63868,7 +63868,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -63879,7 +63879,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -63890,7 +63890,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -63901,7 +63901,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -63912,7 +63912,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -63923,7 +63923,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -63934,7 +63934,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -63945,7 +63945,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -63956,7 +63956,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -63967,7 +63967,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -64451,7 +64451,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -64462,7 +64462,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -64473,7 +64473,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -64484,7 +64484,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -64495,7 +64495,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -64506,7 +64506,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -64517,7 +64517,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -64528,7 +64528,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -64539,7 +64539,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -64550,7 +64550,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -64561,7 +64561,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -64572,7 +64572,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -64583,7 +64583,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -64594,7 +64594,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -64605,7 +64605,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -64616,7 +64616,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -64627,7 +64627,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -64638,7 +64638,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -64649,7 +64649,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -64660,7 +64660,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -64671,7 +64671,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -64682,7 +64682,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -64693,7 +64693,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -64704,7 +64704,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -64715,7 +64715,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -64726,7 +64726,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -64737,7 +64737,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -65232,7 +65232,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -65243,7 +65243,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -65254,7 +65254,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -65265,7 +65265,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -65276,7 +65276,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -65287,7 +65287,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -65298,7 +65298,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -65309,7 +65309,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -65320,7 +65320,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -65331,7 +65331,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -65342,7 +65342,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -65353,7 +65353,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -65364,7 +65364,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -65375,7 +65375,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -65386,7 +65386,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -65397,7 +65397,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -65408,7 +65408,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -65419,7 +65419,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -65430,7 +65430,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -65441,7 +65441,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -65452,7 +65452,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -65463,7 +65463,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -65474,7 +65474,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -65485,7 +65485,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -65496,7 +65496,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -65507,7 +65507,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -65518,7 +65518,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -65529,7 +65529,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -65540,7 +65540,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -66046,7 +66046,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -66057,7 +66057,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -66068,7 +66068,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -66079,7 +66079,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -66090,7 +66090,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -66101,7 +66101,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -66112,7 +66112,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -66123,7 +66123,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -66134,7 +66134,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -66145,7 +66145,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -66156,7 +66156,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -66167,7 +66167,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -66178,7 +66178,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -66189,7 +66189,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -66200,7 +66200,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -66211,7 +66211,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -66222,7 +66222,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -66233,7 +66233,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -66244,7 +66244,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -66255,7 +66255,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -66266,7 +66266,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -66277,7 +66277,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -66288,7 +66288,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -66299,7 +66299,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -66310,7 +66310,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -66321,7 +66321,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -66332,7 +66332,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -66343,7 +66343,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -66354,7 +66354,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -66365,7 +66365,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -66882,7 +66882,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ1685",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -66893,7 +66893,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -66904,7 +66904,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -66915,7 +66915,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -66926,7 +66926,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -66937,7 +66937,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -66948,7 +66948,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -66959,7 +66959,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -66970,7 +66970,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -66981,7 +66981,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -66992,7 +66992,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -67003,7 +67003,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -67014,7 +67014,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "420",
+        "Time": "0420",
         "Flight": "FZ173",
         "Airline": "Flydubai",
         "Dest": "(HBE)",
@@ -67025,7 +67025,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -67036,7 +67036,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -67047,7 +67047,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -67058,7 +67058,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -67069,7 +67069,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -67080,7 +67080,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -67091,7 +67091,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -67102,7 +67102,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -67113,7 +67113,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -67124,7 +67124,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -67135,7 +67135,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -67146,7 +67146,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -67157,7 +67157,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -67168,7 +67168,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -67179,7 +67179,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -67190,7 +67190,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -67201,7 +67201,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -67212,7 +67212,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -67223,7 +67223,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -67740,7 +67740,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -67751,7 +67751,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -67762,7 +67762,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -67773,7 +67773,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -67784,7 +67784,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -67795,7 +67795,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -67806,7 +67806,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -67817,7 +67817,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -67828,7 +67828,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -67839,7 +67839,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -67850,7 +67850,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -67861,7 +67861,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -67872,7 +67872,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -67883,7 +67883,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -67894,7 +67894,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -67905,7 +67905,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -67916,7 +67916,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -67927,7 +67927,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -67938,7 +67938,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -67949,7 +67949,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -67960,7 +67960,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -67971,7 +67971,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -67982,7 +67982,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -68455,7 +68455,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -68466,7 +68466,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -68477,7 +68477,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -68488,7 +68488,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -68499,7 +68499,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -68510,7 +68510,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -68521,7 +68521,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -68532,7 +68532,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -68543,7 +68543,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -68554,7 +68554,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -68565,7 +68565,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -68576,7 +68576,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -68587,7 +68587,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -68598,7 +68598,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -68609,7 +68609,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -68620,7 +68620,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -68631,7 +68631,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -68642,7 +68642,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -68653,7 +68653,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -68664,7 +68664,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -68675,7 +68675,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -68686,7 +68686,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -68697,7 +68697,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -69236,7 +69236,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -69247,7 +69247,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -69258,7 +69258,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -69269,7 +69269,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -69280,7 +69280,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -69291,7 +69291,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -69302,7 +69302,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -69313,7 +69313,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -69324,7 +69324,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -69335,7 +69335,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -69346,7 +69346,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -69357,7 +69357,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -69368,7 +69368,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -69379,7 +69379,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -69390,7 +69390,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -69401,7 +69401,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -69412,7 +69412,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -69423,7 +69423,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -69434,7 +69434,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -69445,7 +69445,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -69456,7 +69456,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -69467,7 +69467,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -69478,7 +69478,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -69489,7 +69489,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -69500,7 +69500,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -69511,7 +69511,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -69522,7 +69522,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -69533,7 +69533,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -69544,7 +69544,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -69555,7 +69555,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -70039,7 +70039,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -70050,7 +70050,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -70061,7 +70061,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -70072,7 +70072,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -70083,7 +70083,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -70094,7 +70094,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -70105,7 +70105,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -70116,7 +70116,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -70127,7 +70127,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -70138,7 +70138,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -70149,7 +70149,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -70160,7 +70160,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -70171,7 +70171,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -70182,7 +70182,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -70193,7 +70193,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -70204,7 +70204,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -70215,7 +70215,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -70226,7 +70226,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -70237,7 +70237,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -70248,7 +70248,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -70259,7 +70259,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ719",
         "Airline": "Flydubai",
         "Dest": "(DBV)",
@@ -70270,7 +70270,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -70281,7 +70281,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -70292,7 +70292,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -70303,7 +70303,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -70798,7 +70798,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -70809,7 +70809,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -70820,7 +70820,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -70831,7 +70831,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -70842,7 +70842,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -70853,7 +70853,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -70864,7 +70864,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -70875,7 +70875,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -70886,7 +70886,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -70897,7 +70897,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -70908,7 +70908,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -70919,7 +70919,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -70930,7 +70930,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -70941,7 +70941,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -70952,7 +70952,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -70963,7 +70963,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -70974,7 +70974,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -70985,7 +70985,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -70996,7 +70996,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -71007,7 +71007,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -71018,7 +71018,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -71029,7 +71029,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -71040,7 +71040,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -71051,7 +71051,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -71062,7 +71062,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -71073,7 +71073,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -71084,7 +71084,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -71590,7 +71590,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -71601,7 +71601,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -71612,7 +71612,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -71623,7 +71623,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -71634,7 +71634,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -71645,7 +71645,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -71656,7 +71656,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -71667,7 +71667,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -71678,7 +71678,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -71689,7 +71689,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -71700,7 +71700,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -71711,7 +71711,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -71722,7 +71722,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -71733,7 +71733,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -71744,7 +71744,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -71755,7 +71755,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -71766,7 +71766,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -71777,7 +71777,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -71788,7 +71788,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -71799,7 +71799,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -71810,7 +71810,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -71821,7 +71821,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -71832,7 +71832,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -71843,7 +71843,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -71854,7 +71854,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -71865,7 +71865,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -71876,7 +71876,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -71887,7 +71887,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -72404,7 +72404,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -72415,7 +72415,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -72426,7 +72426,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -72437,7 +72437,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -72448,7 +72448,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -72459,7 +72459,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -72470,7 +72470,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -72481,7 +72481,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -72492,7 +72492,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -72503,7 +72503,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -72514,7 +72514,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -72525,7 +72525,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -72536,7 +72536,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -72547,7 +72547,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -72558,7 +72558,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -72569,7 +72569,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -72580,7 +72580,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -72591,7 +72591,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -72602,7 +72602,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -72613,7 +72613,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -72624,7 +72624,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -72635,7 +72635,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -72646,7 +72646,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -72657,7 +72657,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -72668,7 +72668,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -72679,7 +72679,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -72690,7 +72690,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -72701,7 +72701,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -72712,7 +72712,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -72723,7 +72723,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -73240,7 +73240,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -73251,7 +73251,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -73262,7 +73262,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -73273,7 +73273,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -73284,7 +73284,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -73295,7 +73295,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -73306,7 +73306,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -73317,7 +73317,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -73328,7 +73328,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -73339,7 +73339,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -73350,7 +73350,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -73361,7 +73361,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -73372,7 +73372,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -73383,7 +73383,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -73394,7 +73394,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -73405,7 +73405,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -73416,7 +73416,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -73427,7 +73427,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -73438,7 +73438,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -73449,7 +73449,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -73460,7 +73460,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -73471,7 +73471,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -73944,7 +73944,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -73955,7 +73955,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -73966,7 +73966,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -73977,7 +73977,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -73988,7 +73988,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -73999,7 +73999,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -74010,7 +74010,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -74021,7 +74021,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -74032,7 +74032,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -74043,7 +74043,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -74054,7 +74054,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -74065,7 +74065,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -74076,7 +74076,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -74087,7 +74087,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -74098,7 +74098,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -74109,7 +74109,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -74120,7 +74120,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -74131,7 +74131,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -74142,7 +74142,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -74153,7 +74153,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -74164,7 +74164,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -74175,7 +74175,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -74186,7 +74186,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -74725,7 +74725,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -74736,7 +74736,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -74747,7 +74747,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -74758,7 +74758,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -74769,7 +74769,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -74780,7 +74780,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -74791,7 +74791,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -74802,7 +74802,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -74813,7 +74813,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -74824,7 +74824,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -74835,7 +74835,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -74846,7 +74846,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -74857,7 +74857,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -74868,7 +74868,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -74879,7 +74879,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -74890,7 +74890,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -74901,7 +74901,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -74912,7 +74912,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -74923,7 +74923,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -74934,7 +74934,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -74945,7 +74945,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -74956,7 +74956,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -74967,7 +74967,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -74978,7 +74978,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -74989,7 +74989,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -75000,7 +75000,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -75011,7 +75011,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -75022,7 +75022,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -75033,7 +75033,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -75044,7 +75044,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -75528,7 +75528,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -75539,7 +75539,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -75550,7 +75550,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -75561,7 +75561,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -75572,7 +75572,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -75583,7 +75583,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -75594,7 +75594,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -75605,7 +75605,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -75616,7 +75616,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -75627,7 +75627,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -75638,7 +75638,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -75649,7 +75649,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -75660,7 +75660,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -75671,7 +75671,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -75682,7 +75682,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -75693,7 +75693,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -75704,7 +75704,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -75715,7 +75715,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -75726,7 +75726,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -75737,7 +75737,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -75748,7 +75748,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -75759,7 +75759,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -75770,7 +75770,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -75781,7 +75781,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -76276,7 +76276,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -76287,7 +76287,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -76298,7 +76298,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -76309,7 +76309,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -76320,7 +76320,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -76331,7 +76331,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -76342,7 +76342,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -76353,7 +76353,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -76364,7 +76364,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -76375,7 +76375,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -76386,7 +76386,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -76397,7 +76397,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -76408,7 +76408,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -76419,7 +76419,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -76430,7 +76430,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -76441,7 +76441,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -76452,7 +76452,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -76463,7 +76463,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -76474,7 +76474,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -76485,7 +76485,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -76496,7 +76496,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -76507,7 +76507,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -76518,7 +76518,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -76529,7 +76529,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -76540,7 +76540,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -76551,7 +76551,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -76562,7 +76562,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -77068,7 +77068,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -77079,7 +77079,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -77090,7 +77090,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -77101,7 +77101,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -77112,7 +77112,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -77123,7 +77123,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -77134,7 +77134,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -77145,7 +77145,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -77156,7 +77156,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -77167,7 +77167,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -77178,7 +77178,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -77189,7 +77189,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -77200,7 +77200,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -77211,7 +77211,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -77222,7 +77222,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -77233,7 +77233,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -77244,7 +77244,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -77255,7 +77255,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -77266,7 +77266,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -77277,7 +77277,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -77288,7 +77288,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -77299,7 +77299,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -77310,7 +77310,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -77321,7 +77321,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -77332,7 +77332,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -77343,7 +77343,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -77354,7 +77354,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -77365,7 +77365,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -77882,7 +77882,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -77893,7 +77893,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -77904,7 +77904,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -77915,7 +77915,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -77926,7 +77926,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -77937,7 +77937,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -77948,7 +77948,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -77959,7 +77959,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -77970,7 +77970,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -77981,7 +77981,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -77992,7 +77992,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -78003,7 +78003,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -78014,7 +78014,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -78025,7 +78025,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -78036,7 +78036,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -78047,7 +78047,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -78058,7 +78058,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -78069,7 +78069,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -78080,7 +78080,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -78091,7 +78091,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -78102,7 +78102,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -78113,7 +78113,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -78124,7 +78124,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -78135,7 +78135,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -78146,7 +78146,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -78157,7 +78157,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -78168,7 +78168,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -78179,7 +78179,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -78190,7 +78190,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -78201,7 +78201,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -78718,7 +78718,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -78729,7 +78729,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -78740,7 +78740,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -78751,7 +78751,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -78762,7 +78762,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -78773,7 +78773,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -78784,7 +78784,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -78795,7 +78795,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -78806,7 +78806,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -78817,7 +78817,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -78828,7 +78828,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -78839,7 +78839,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -78850,7 +78850,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -78861,7 +78861,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -78872,7 +78872,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -78883,7 +78883,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -78894,7 +78894,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -78905,7 +78905,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -78916,7 +78916,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -78927,7 +78927,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -78938,7 +78938,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -78949,7 +78949,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -79422,7 +79422,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -79433,7 +79433,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -79444,7 +79444,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -79455,7 +79455,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -79466,7 +79466,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -79477,7 +79477,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -79488,7 +79488,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -79499,7 +79499,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -79510,7 +79510,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -79521,7 +79521,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -79532,7 +79532,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -79543,7 +79543,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -79554,7 +79554,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -79565,7 +79565,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -79576,7 +79576,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -79587,7 +79587,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -79598,7 +79598,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -79609,7 +79609,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -79620,7 +79620,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -79631,7 +79631,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -79642,7 +79642,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -79653,7 +79653,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -79664,7 +79664,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -79675,7 +79675,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -80214,7 +80214,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -80225,7 +80225,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -80236,7 +80236,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -80247,7 +80247,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -80258,7 +80258,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -80269,7 +80269,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -80280,7 +80280,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -80291,7 +80291,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -80302,7 +80302,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -80313,7 +80313,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -80324,7 +80324,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -80335,7 +80335,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -80346,7 +80346,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -80357,7 +80357,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -80368,7 +80368,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -80379,7 +80379,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -80390,7 +80390,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -80401,7 +80401,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -80412,7 +80412,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -80423,7 +80423,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -80434,7 +80434,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -80445,7 +80445,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -80456,7 +80456,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -80467,7 +80467,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -80478,7 +80478,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -80489,7 +80489,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -80500,7 +80500,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -80511,7 +80511,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -80522,7 +80522,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -80533,7 +80533,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -81006,7 +81006,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -81017,7 +81017,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -81028,7 +81028,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -81039,7 +81039,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -81050,7 +81050,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -81061,7 +81061,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -81072,7 +81072,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -81083,7 +81083,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -81094,7 +81094,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -81105,7 +81105,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -81116,7 +81116,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -81127,7 +81127,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -81138,7 +81138,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -81149,7 +81149,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -81160,7 +81160,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -81171,7 +81171,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -81182,7 +81182,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -81193,7 +81193,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -81204,7 +81204,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -81215,7 +81215,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -81226,7 +81226,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -81237,7 +81237,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -81248,7 +81248,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -81259,7 +81259,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -81270,7 +81270,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -81754,7 +81754,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -81765,7 +81765,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -81776,7 +81776,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -81787,7 +81787,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -81798,7 +81798,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -81809,7 +81809,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -81820,7 +81820,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -81831,7 +81831,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -81842,7 +81842,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -81853,7 +81853,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -81864,7 +81864,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -81875,7 +81875,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -81886,7 +81886,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -81897,7 +81897,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -81908,7 +81908,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -81919,7 +81919,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -81930,7 +81930,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -81941,7 +81941,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -81952,7 +81952,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -81963,7 +81963,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -81974,7 +81974,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -81985,7 +81985,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -81996,7 +81996,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -82007,7 +82007,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -82018,7 +82018,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -82029,7 +82029,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -82040,7 +82040,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -82051,7 +82051,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -82546,7 +82546,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -82557,7 +82557,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -82568,7 +82568,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -82579,7 +82579,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -82590,7 +82590,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -82601,7 +82601,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -82612,7 +82612,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -82623,7 +82623,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -82634,7 +82634,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -82645,7 +82645,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -82656,7 +82656,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -82667,7 +82667,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -82678,7 +82678,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -82689,7 +82689,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -82700,7 +82700,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -82711,7 +82711,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -82722,7 +82722,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -82733,7 +82733,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -82744,7 +82744,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -82755,7 +82755,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -82766,7 +82766,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -82777,7 +82777,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -82788,7 +82788,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -82799,7 +82799,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -82810,7 +82810,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -82821,7 +82821,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -82832,7 +82832,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -82843,7 +82843,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -82854,7 +82854,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -82865,7 +82865,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -83371,7 +83371,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -83382,7 +83382,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -83393,7 +83393,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -83404,7 +83404,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -83415,7 +83415,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -83426,7 +83426,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -83437,7 +83437,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -83448,7 +83448,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -83459,7 +83459,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -83470,7 +83470,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -83481,7 +83481,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -83492,7 +83492,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -83503,7 +83503,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -83514,7 +83514,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -83525,7 +83525,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -83536,7 +83536,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -83547,7 +83547,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -83558,7 +83558,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -83569,7 +83569,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -83580,7 +83580,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -83591,7 +83591,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -83602,7 +83602,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -83613,7 +83613,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -83624,7 +83624,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -83635,7 +83635,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -83646,7 +83646,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -83657,7 +83657,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -83668,7 +83668,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -83679,7 +83679,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -83690,7 +83690,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -84196,7 +84196,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -84207,7 +84207,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -84218,7 +84218,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -84229,7 +84229,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -84240,7 +84240,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -84251,7 +84251,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -84262,7 +84262,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -84273,7 +84273,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -84284,7 +84284,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -84295,7 +84295,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -84306,7 +84306,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -84317,7 +84317,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -84328,7 +84328,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -84339,7 +84339,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -84350,7 +84350,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -84361,7 +84361,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -84372,7 +84372,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -84383,7 +84383,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -84394,7 +84394,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -84405,7 +84405,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -84416,7 +84416,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -84427,7 +84427,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -84438,7 +84438,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -84900,7 +84900,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -84911,7 +84911,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -84922,7 +84922,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -84933,7 +84933,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -84944,7 +84944,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -84955,7 +84955,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -84966,7 +84966,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "345",
+        "Time": "0345",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -84977,7 +84977,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -84988,7 +84988,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -84999,7 +84999,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -85010,7 +85010,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -85021,7 +85021,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -85032,7 +85032,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -85043,7 +85043,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -85054,7 +85054,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -85065,7 +85065,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -85076,7 +85076,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -85087,7 +85087,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -85098,7 +85098,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -85109,7 +85109,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -85120,7 +85120,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -85131,7 +85131,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -85142,7 +85142,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -85153,7 +85153,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -85692,7 +85692,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -85703,7 +85703,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -85714,7 +85714,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -85725,7 +85725,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -85736,7 +85736,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -85747,7 +85747,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -85758,7 +85758,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -85769,7 +85769,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -85780,7 +85780,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -85791,7 +85791,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -85802,7 +85802,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -85813,7 +85813,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -85824,7 +85824,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -85835,7 +85835,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -85846,7 +85846,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -85857,7 +85857,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -85868,7 +85868,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -85879,7 +85879,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -85890,7 +85890,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -85901,7 +85901,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -85912,7 +85912,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -85923,7 +85923,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -85934,7 +85934,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -85945,7 +85945,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -85956,7 +85956,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -85967,7 +85967,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -85978,7 +85978,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -85989,7 +85989,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -86000,7 +86000,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -86011,7 +86011,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -86495,7 +86495,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -86506,7 +86506,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -86517,7 +86517,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -86528,7 +86528,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -86539,7 +86539,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -86550,7 +86550,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -86561,7 +86561,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -86572,7 +86572,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -86583,7 +86583,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -86594,7 +86594,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -86605,7 +86605,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -86616,7 +86616,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -86627,7 +86627,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -86638,7 +86638,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -86649,7 +86649,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -86660,7 +86660,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -86671,7 +86671,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -86682,7 +86682,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -86693,7 +86693,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -86704,7 +86704,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -86715,7 +86715,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -86726,7 +86726,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -86737,7 +86737,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -86748,7 +86748,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -86759,7 +86759,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -87254,7 +87254,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -87265,7 +87265,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -87276,7 +87276,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -87287,7 +87287,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -87298,7 +87298,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -87309,7 +87309,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -87320,7 +87320,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -87331,7 +87331,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -87342,7 +87342,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -87353,7 +87353,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -87364,7 +87364,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -87375,7 +87375,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -87386,7 +87386,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -87397,7 +87397,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -87408,7 +87408,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -87419,7 +87419,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -87430,7 +87430,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -87441,7 +87441,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -87452,7 +87452,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -87463,7 +87463,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -87474,7 +87474,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -87485,7 +87485,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -87496,7 +87496,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -87507,7 +87507,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -87518,7 +87518,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -87529,7 +87529,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -87540,7 +87540,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -87551,7 +87551,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -87562,7 +87562,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -88035,7 +88035,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -88046,7 +88046,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -88057,7 +88057,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -88068,7 +88068,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -88079,7 +88079,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -88090,7 +88090,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -88101,7 +88101,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -88112,7 +88112,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -88123,7 +88123,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -88134,7 +88134,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -88145,7 +88145,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -88156,7 +88156,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -88167,7 +88167,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -88178,7 +88178,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -88189,7 +88189,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -88200,7 +88200,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -88211,7 +88211,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -88222,7 +88222,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -88233,7 +88233,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -88244,7 +88244,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -88255,7 +88255,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -88266,7 +88266,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -88277,7 +88277,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -88288,7 +88288,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -88299,7 +88299,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -88310,7 +88310,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -88321,7 +88321,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -88332,7 +88332,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -88343,7 +88343,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -88860,7 +88860,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -88871,7 +88871,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -88882,7 +88882,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -88893,7 +88893,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -88904,7 +88904,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -88915,7 +88915,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -88926,7 +88926,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -88937,7 +88937,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -88948,7 +88948,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -88959,7 +88959,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -88970,7 +88970,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "330",
+        "Time": "0330",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -88981,7 +88981,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -88992,7 +88992,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -89003,7 +89003,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -89014,7 +89014,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -89025,7 +89025,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -89036,7 +89036,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -89047,7 +89047,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -89058,7 +89058,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -89069,7 +89069,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -89080,7 +89080,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -89091,7 +89091,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -89102,7 +89102,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -89113,7 +89113,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -89124,7 +89124,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -89135,7 +89135,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -89146,7 +89146,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -89157,7 +89157,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -89168,7 +89168,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -89179,7 +89179,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -89190,7 +89190,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -89707,7 +89707,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -89718,7 +89718,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -89729,7 +89729,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -89740,7 +89740,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -89751,7 +89751,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -89762,7 +89762,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -89773,7 +89773,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -89784,7 +89784,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -89795,7 +89795,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -89806,7 +89806,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -89817,7 +89817,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -89828,7 +89828,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -89839,7 +89839,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -89850,7 +89850,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -89861,7 +89861,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -89872,7 +89872,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -89883,7 +89883,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -89894,7 +89894,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -89905,7 +89905,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -89916,7 +89916,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -89927,7 +89927,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -89938,7 +89938,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -89949,7 +89949,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -89960,7 +89960,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -90433,7 +90433,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -90444,7 +90444,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -90455,7 +90455,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -90466,7 +90466,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -90477,7 +90477,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -90488,7 +90488,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -90499,7 +90499,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -90510,7 +90510,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "345",
+        "Time": "0345",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -90521,7 +90521,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -90532,7 +90532,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -90543,7 +90543,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -90554,7 +90554,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -90565,7 +90565,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -90576,7 +90576,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -90587,7 +90587,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -90598,7 +90598,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -90609,7 +90609,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -90620,7 +90620,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -90631,7 +90631,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -90642,7 +90642,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -90653,7 +90653,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -90664,7 +90664,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -90675,7 +90675,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -90686,7 +90686,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -90697,7 +90697,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -91269,7 +91269,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -91280,7 +91280,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -91291,7 +91291,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -91302,7 +91302,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -91313,7 +91313,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -91324,7 +91324,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -91335,7 +91335,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -91346,7 +91346,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -91357,7 +91357,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -91368,7 +91368,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -91379,7 +91379,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -91390,7 +91390,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -91401,7 +91401,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -91412,7 +91412,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -91423,7 +91423,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -91434,7 +91434,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -91445,7 +91445,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -91456,7 +91456,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -91467,7 +91467,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -91478,7 +91478,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -91489,7 +91489,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -91500,7 +91500,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -91511,7 +91511,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -91522,7 +91522,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -91533,7 +91533,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -91544,7 +91544,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -91555,7 +91555,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -91566,7 +91566,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -91577,7 +91577,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -91588,7 +91588,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -91599,7 +91599,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -92094,7 +92094,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -92105,7 +92105,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -92116,7 +92116,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -92127,7 +92127,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -92138,7 +92138,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -92149,7 +92149,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -92160,7 +92160,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -92171,7 +92171,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -92182,7 +92182,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -92193,7 +92193,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -92204,7 +92204,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -92215,7 +92215,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -92226,7 +92226,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -92237,7 +92237,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -92248,7 +92248,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -92259,7 +92259,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -92270,7 +92270,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -92281,7 +92281,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -92292,7 +92292,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -92303,7 +92303,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -92314,7 +92314,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -92325,7 +92325,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -92336,7 +92336,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -92347,7 +92347,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -92358,7 +92358,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -92369,7 +92369,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -92897,7 +92897,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -92908,7 +92908,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -92919,7 +92919,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -92930,7 +92930,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -92941,7 +92941,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -92952,7 +92952,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -92963,7 +92963,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -92974,7 +92974,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -92985,7 +92985,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -92996,7 +92996,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -93007,7 +93007,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -93018,7 +93018,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -93029,7 +93029,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -93040,7 +93040,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -93051,7 +93051,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -93062,7 +93062,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -93073,7 +93073,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -93084,7 +93084,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -93095,7 +93095,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -93106,7 +93106,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -93117,7 +93117,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -93128,7 +93128,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -93139,7 +93139,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -93150,7 +93150,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -93161,7 +93161,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -93172,7 +93172,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -93183,7 +93183,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -93194,7 +93194,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -93205,7 +93205,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -93711,7 +93711,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -93722,7 +93722,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -93733,7 +93733,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -93744,7 +93744,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -93755,7 +93755,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -93766,7 +93766,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -93777,7 +93777,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -93788,7 +93788,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -93799,7 +93799,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -93810,7 +93810,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -93821,7 +93821,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -93832,7 +93832,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -93843,7 +93843,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -93854,7 +93854,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -93865,7 +93865,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -93876,7 +93876,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -93887,7 +93887,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -93898,7 +93898,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -93909,7 +93909,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -93920,7 +93920,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -93931,7 +93931,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -93942,7 +93942,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -93953,7 +93953,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -93964,7 +93964,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -93975,7 +93975,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -93986,7 +93986,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -93997,7 +93997,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -94008,7 +94008,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -94019,7 +94019,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -94030,7 +94030,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -94041,7 +94041,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -94591,7 +94591,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -94602,7 +94602,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -94613,7 +94613,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -94624,7 +94624,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -94635,7 +94635,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -94646,7 +94646,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -94657,7 +94657,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -94668,7 +94668,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -94679,7 +94679,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -94690,7 +94690,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -94701,7 +94701,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "330",
+        "Time": "0330",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -94712,7 +94712,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -94723,7 +94723,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -94734,7 +94734,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -94745,7 +94745,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -94756,7 +94756,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -94767,7 +94767,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -94778,7 +94778,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -94789,7 +94789,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -94800,7 +94800,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -94811,7 +94811,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -94822,7 +94822,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -94833,7 +94833,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -94844,7 +94844,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -94855,7 +94855,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -94866,7 +94866,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -94877,7 +94877,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -94888,7 +94888,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -94899,7 +94899,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -94910,7 +94910,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -94921,7 +94921,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -95438,7 +95438,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -95449,7 +95449,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -95460,7 +95460,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -95471,7 +95471,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -95482,7 +95482,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -95493,7 +95493,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -95504,7 +95504,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -95515,7 +95515,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -95526,7 +95526,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -95537,7 +95537,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -95548,7 +95548,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -95559,7 +95559,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -95570,7 +95570,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -95581,7 +95581,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -95592,7 +95592,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -95603,7 +95603,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -95614,7 +95614,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -95625,7 +95625,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -95636,7 +95636,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -95647,7 +95647,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -95658,7 +95658,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -95669,7 +95669,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -95680,7 +95680,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -95691,7 +95691,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -96164,7 +96164,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -96175,7 +96175,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -96186,7 +96186,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -96197,7 +96197,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -96208,7 +96208,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -96219,7 +96219,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -96230,7 +96230,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -96241,7 +96241,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "345",
+        "Time": "0345",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -96252,7 +96252,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -96263,7 +96263,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -96274,7 +96274,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -96285,7 +96285,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -96296,7 +96296,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -96307,7 +96307,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -96318,7 +96318,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -96329,7 +96329,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -96340,7 +96340,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -96351,7 +96351,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -96362,7 +96362,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -96373,7 +96373,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -96384,7 +96384,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -96395,7 +96395,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -96406,7 +96406,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -96417,7 +96417,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -96428,7 +96428,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -97000,7 +97000,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -97011,7 +97011,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -97022,7 +97022,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -97033,7 +97033,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -97044,7 +97044,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -97055,7 +97055,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -97066,7 +97066,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -97077,7 +97077,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -97088,7 +97088,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -97099,7 +97099,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -97110,7 +97110,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -97121,7 +97121,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -97132,7 +97132,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -97143,7 +97143,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -97154,7 +97154,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -97165,7 +97165,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -97176,7 +97176,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -97187,7 +97187,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -97198,7 +97198,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -97209,7 +97209,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -97220,7 +97220,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -97231,7 +97231,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -97242,7 +97242,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -97253,7 +97253,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -97264,7 +97264,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -97275,7 +97275,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -97286,7 +97286,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -97297,7 +97297,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -97308,7 +97308,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -97319,7 +97319,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -97330,7 +97330,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -97825,7 +97825,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -97836,7 +97836,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -97847,7 +97847,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -97858,7 +97858,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -97869,7 +97869,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -97880,7 +97880,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -97891,7 +97891,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -97902,7 +97902,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -97913,7 +97913,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "350",
+        "Time": "0350",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -97924,7 +97924,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -97935,7 +97935,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -97946,7 +97946,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -97957,7 +97957,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -97968,7 +97968,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -97979,7 +97979,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -97990,7 +97990,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -98001,7 +98001,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -98012,7 +98012,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -98023,7 +98023,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -98034,7 +98034,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -98045,7 +98045,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -98056,7 +98056,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -98067,7 +98067,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -98078,7 +98078,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -98089,7 +98089,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -98100,7 +98100,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -98628,7 +98628,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "50",
+        "Time": "0050",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -98639,7 +98639,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -98650,7 +98650,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "105",
+        "Time": "0105",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -98661,7 +98661,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -98672,7 +98672,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -98683,7 +98683,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -98694,7 +98694,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -98705,7 +98705,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -98716,7 +98716,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -98727,7 +98727,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -98738,7 +98738,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -98749,7 +98749,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -98760,7 +98760,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -98771,7 +98771,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -98782,7 +98782,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -98793,7 +98793,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -98804,7 +98804,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -98815,7 +98815,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -98826,7 +98826,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -98837,7 +98837,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -98848,7 +98848,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -98859,7 +98859,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -98870,7 +98870,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -98881,7 +98881,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -98892,7 +98892,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -98903,7 +98903,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -98914,7 +98914,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -98925,7 +98925,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -98936,7 +98936,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -99442,7 +99442,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "45",
+        "Time": "0045",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -99453,7 +99453,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -99464,7 +99464,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -99475,7 +99475,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -99486,7 +99486,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -99497,7 +99497,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -99508,7 +99508,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -99519,7 +99519,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -99530,7 +99530,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1133",
         "Airline": "Flydubai",
         "Dest": "(KTM)",
@@ -99541,7 +99541,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -99552,7 +99552,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "320",
+        "Time": "0320",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -99563,7 +99563,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "335",
+        "Time": "0335",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -99574,7 +99574,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -99585,7 +99585,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "430",
+        "Time": "0430",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -99596,7 +99596,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -99607,7 +99607,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "705",
+        "Time": "0705",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -99618,7 +99618,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -99629,7 +99629,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -99640,7 +99640,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "725",
+        "Time": "0725",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -99651,7 +99651,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -99662,7 +99662,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -99673,7 +99673,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "805",
+        "Time": "0805",
         "Flight": "FZ717",
         "Airline": "Flydubai",
         "Dest": "(EVN)",
@@ -99684,7 +99684,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "810",
+        "Time": "0810",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -99695,7 +99695,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -99706,7 +99706,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -99717,7 +99717,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "910",
+        "Time": "0910",
         "Flight": "FZ761",
         "Airline": "Flydubai",
         "Dest": "(SJJ)",
@@ -99728,7 +99728,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -99739,7 +99739,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -99750,7 +99750,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -99761,7 +99761,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -99772,7 +99772,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "950",
+        "Time": "0950",
         "Flight": "FZ1211",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -100300,7 +100300,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -100311,7 +100311,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "55",
+        "Time": "0055",
         "Flight": "KL428",
         "Airline": "KLM",
         "Dest": "(AMS)",
@@ -100322,7 +100322,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -100333,7 +100333,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "120",
+        "Time": "0120",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -100344,7 +100344,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "125",
+        "Time": "0125",
         "Flight": "BA106",
         "Airline": "British Airways",
         "Dest": "(LHR)",
@@ -100355,7 +100355,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -100366,7 +100366,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -100377,7 +100377,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -100388,7 +100388,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -100399,7 +100399,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -100410,7 +100410,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -100421,7 +100421,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -100432,7 +100432,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -100443,7 +100443,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -100454,7 +100454,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -100465,7 +100465,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -100476,7 +100476,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -100487,7 +100487,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -100498,7 +100498,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -100509,7 +100509,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -100520,7 +100520,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -100531,7 +100531,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -100542,7 +100542,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -100553,7 +100553,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -100564,7 +100564,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -100575,7 +100575,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -100586,7 +100586,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -100597,7 +100597,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -100608,7 +100608,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -100619,7 +100619,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -100630,7 +100630,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -100641,7 +100641,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -100652,7 +100652,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -100663,7 +100663,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -100674,7 +100674,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -100685,7 +100685,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -100696,7 +100696,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -100707,7 +100707,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -101268,7 +101268,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -101279,7 +101279,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -101290,7 +101290,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -101301,7 +101301,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -101312,7 +101312,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -101323,7 +101323,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -101334,7 +101334,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -101345,7 +101345,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -101356,7 +101356,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -101367,7 +101367,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -101378,7 +101378,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -101389,7 +101389,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -101400,7 +101400,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -101411,7 +101411,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -101422,7 +101422,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -101433,7 +101433,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -101444,7 +101444,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -101455,7 +101455,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -101466,7 +101466,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -101477,7 +101477,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -101488,7 +101488,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -101499,7 +101499,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -101510,7 +101510,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -101521,7 +101521,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -101532,7 +101532,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -101543,7 +101543,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -101554,7 +101554,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -101565,7 +101565,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -101576,7 +101576,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -101587,7 +101587,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -102148,7 +102148,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -102159,7 +102159,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -102170,7 +102170,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -102181,7 +102181,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -102192,7 +102192,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -102203,7 +102203,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -102214,7 +102214,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -102225,7 +102225,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -102236,7 +102236,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -102247,7 +102247,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -102258,7 +102258,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -102269,7 +102269,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -102280,7 +102280,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -102291,7 +102291,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -102302,7 +102302,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -102313,7 +102313,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -102324,7 +102324,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -102335,7 +102335,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -102346,7 +102346,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -102357,7 +102357,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -102368,7 +102368,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -102379,7 +102379,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -102390,7 +102390,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -102401,7 +102401,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -102412,7 +102412,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -102423,7 +102423,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -102434,7 +102434,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -102445,7 +102445,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -102456,7 +102456,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -102467,7 +102467,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -102478,7 +102478,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -102489,7 +102489,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -103127,7 +103127,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -103138,7 +103138,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -103149,7 +103149,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -103160,7 +103160,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -103171,7 +103171,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -103182,7 +103182,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -103193,7 +103193,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -103204,7 +103204,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -103215,7 +103215,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -103226,7 +103226,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -103237,7 +103237,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -103248,7 +103248,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -103259,7 +103259,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -103270,7 +103270,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -103281,7 +103281,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -103292,7 +103292,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -103303,7 +103303,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -103314,7 +103314,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -103325,7 +103325,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -103336,7 +103336,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -103347,7 +103347,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -103358,7 +103358,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -103369,7 +103369,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -103380,7 +103380,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -103391,7 +103391,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -103402,7 +103402,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -103413,7 +103413,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -103424,7 +103424,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -103435,7 +103435,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -103446,7 +103446,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -103457,7 +103457,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -103468,7 +103468,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -103479,7 +103479,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -103490,7 +103490,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -103501,7 +103501,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -103512,7 +103512,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -104062,7 +104062,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -104073,7 +104073,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -104084,7 +104084,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -104095,7 +104095,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -104106,7 +104106,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -104117,7 +104117,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -104128,7 +104128,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -104139,7 +104139,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -104150,7 +104150,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -104161,7 +104161,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -104172,7 +104172,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -104183,7 +104183,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -104194,7 +104194,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -104205,7 +104205,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -104216,7 +104216,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -104227,7 +104227,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -104238,7 +104238,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -104249,7 +104249,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -104260,7 +104260,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -104271,7 +104271,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -104282,7 +104282,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -104293,7 +104293,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -104304,7 +104304,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -104315,7 +104315,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -104326,7 +104326,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -104337,7 +104337,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -104348,7 +104348,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -104359,7 +104359,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -104370,7 +104370,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -104381,7 +104381,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -104392,7 +104392,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -104997,7 +104997,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -105008,7 +105008,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -105019,7 +105019,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -105030,7 +105030,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -105041,7 +105041,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -105052,7 +105052,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -105063,7 +105063,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -105074,7 +105074,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -105085,7 +105085,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -105096,7 +105096,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -105107,7 +105107,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -105118,7 +105118,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -105129,7 +105129,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -105140,7 +105140,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -105151,7 +105151,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -105162,7 +105162,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -105173,7 +105173,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -105184,7 +105184,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -105195,7 +105195,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -105206,7 +105206,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -105217,7 +105217,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -105228,7 +105228,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -105239,7 +105239,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -105250,7 +105250,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -105261,7 +105261,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -105272,7 +105272,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -105283,7 +105283,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -105294,7 +105294,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -105305,7 +105305,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -105316,7 +105316,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -105327,7 +105327,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -105338,7 +105338,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -105349,7 +105349,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -105360,7 +105360,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -105371,7 +105371,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -105965,7 +105965,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -105976,7 +105976,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -105987,7 +105987,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -105998,7 +105998,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -106009,7 +106009,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -106020,7 +106020,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -106031,7 +106031,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -106042,7 +106042,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -106053,7 +106053,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -106064,7 +106064,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -106075,7 +106075,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -106086,7 +106086,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -106097,7 +106097,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -106108,7 +106108,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -106119,7 +106119,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -106130,7 +106130,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -106141,7 +106141,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -106152,7 +106152,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -106163,7 +106163,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -106174,7 +106174,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -106185,7 +106185,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -106196,7 +106196,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -106207,7 +106207,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -106218,7 +106218,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -106229,7 +106229,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -106240,7 +106240,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -106251,7 +106251,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -106262,7 +106262,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -106273,7 +106273,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -106284,7 +106284,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -106295,7 +106295,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -106306,7 +106306,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -106317,7 +106317,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -106328,7 +106328,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -106339,7 +106339,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -106988,7 +106988,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -106999,7 +106999,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -107010,7 +107010,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -107021,7 +107021,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -107032,7 +107032,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -107043,7 +107043,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -107054,7 +107054,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -107065,7 +107065,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -107076,7 +107076,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -107087,7 +107087,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -107098,7 +107098,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -107109,7 +107109,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -107120,7 +107120,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -107131,7 +107131,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -107142,7 +107142,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -107153,7 +107153,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -107164,7 +107164,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -107175,7 +107175,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -107186,7 +107186,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -107197,7 +107197,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -107208,7 +107208,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -107219,7 +107219,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -107230,7 +107230,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -107241,7 +107241,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -107252,7 +107252,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -107263,7 +107263,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -107274,7 +107274,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -107285,7 +107285,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -107296,7 +107296,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -107307,7 +107307,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -107318,7 +107318,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -107329,7 +107329,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -107340,7 +107340,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -107351,7 +107351,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -107362,7 +107362,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -107373,7 +107373,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -107384,7 +107384,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -107395,7 +107395,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -107406,7 +107406,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -108011,7 +108011,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -108022,7 +108022,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -108033,7 +108033,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -108044,7 +108044,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -108055,7 +108055,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -108066,7 +108066,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -108077,7 +108077,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -108088,7 +108088,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -108099,7 +108099,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -108110,7 +108110,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -108121,7 +108121,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -108132,7 +108132,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -108143,7 +108143,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -108154,7 +108154,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -108165,7 +108165,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -108176,7 +108176,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -108187,7 +108187,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -108198,7 +108198,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -108209,7 +108209,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -108220,7 +108220,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -108231,7 +108231,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -108242,7 +108242,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -108253,7 +108253,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -108264,7 +108264,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -108275,7 +108275,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -108286,7 +108286,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -108297,7 +108297,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -108308,7 +108308,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -108319,7 +108319,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -108330,7 +108330,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -108341,7 +108341,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -108924,7 +108924,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -108935,7 +108935,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -108946,7 +108946,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -108957,7 +108957,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -108968,7 +108968,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -108979,7 +108979,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -108990,7 +108990,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -109001,7 +109001,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -109012,7 +109012,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -109023,7 +109023,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -109034,7 +109034,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -109045,7 +109045,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -109056,7 +109056,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -109067,7 +109067,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -109078,7 +109078,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -109089,7 +109089,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -109100,7 +109100,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -109111,7 +109111,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -109122,7 +109122,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -109133,7 +109133,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -109144,7 +109144,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -109155,7 +109155,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -109166,7 +109166,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -109177,7 +109177,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -109188,7 +109188,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -109199,7 +109199,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -109210,7 +109210,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -109221,7 +109221,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -109232,7 +109232,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -109243,7 +109243,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -109254,7 +109254,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -109265,7 +109265,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -109914,7 +109914,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -109925,7 +109925,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -109936,7 +109936,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -109947,7 +109947,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -109958,7 +109958,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -109969,7 +109969,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -109980,7 +109980,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -109991,7 +109991,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -110002,7 +110002,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -110013,7 +110013,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -110024,7 +110024,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -110035,7 +110035,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -110046,7 +110046,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -110057,7 +110057,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -110068,7 +110068,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -110079,7 +110079,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -110090,7 +110090,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -110101,7 +110101,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -110112,7 +110112,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -110123,7 +110123,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -110134,7 +110134,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -110145,7 +110145,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -110156,7 +110156,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -110167,7 +110167,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -110178,7 +110178,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -110189,7 +110189,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -110200,7 +110200,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -110211,7 +110211,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -110222,7 +110222,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -110233,7 +110233,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -110244,7 +110244,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -110255,7 +110255,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -110266,7 +110266,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -110277,7 +110277,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -110288,7 +110288,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -110299,7 +110299,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -110860,7 +110860,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -110871,7 +110871,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -110882,7 +110882,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -110893,7 +110893,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -110904,7 +110904,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -110915,7 +110915,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -110926,7 +110926,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -110937,7 +110937,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -110948,7 +110948,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -110959,7 +110959,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -110970,7 +110970,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -110981,7 +110981,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -110992,7 +110992,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -111003,7 +111003,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -111014,7 +111014,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -111025,7 +111025,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -111036,7 +111036,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -111047,7 +111047,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -111058,7 +111058,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -111069,7 +111069,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -111080,7 +111080,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -111091,7 +111091,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -111102,7 +111102,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -111113,7 +111113,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -111124,7 +111124,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -111135,7 +111135,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -111146,7 +111146,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -111157,7 +111157,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -111168,7 +111168,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -111179,7 +111179,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -111190,7 +111190,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -111806,7 +111806,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -111817,7 +111817,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -111828,7 +111828,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -111839,7 +111839,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -111850,7 +111850,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -111861,7 +111861,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -111872,7 +111872,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -111883,7 +111883,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -111894,7 +111894,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -111905,7 +111905,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -111916,7 +111916,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -111927,7 +111927,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -111938,7 +111938,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -111949,7 +111949,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -111960,7 +111960,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -111971,7 +111971,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -111982,7 +111982,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -111993,7 +111993,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -112004,7 +112004,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -112015,7 +112015,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -112026,7 +112026,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -112037,7 +112037,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -112048,7 +112048,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -112059,7 +112059,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -112070,7 +112070,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -112081,7 +112081,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -112092,7 +112092,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -112103,7 +112103,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -112114,7 +112114,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -112125,7 +112125,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -112136,7 +112136,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -112147,7 +112147,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -112158,7 +112158,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -112169,7 +112169,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -112180,7 +112180,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -112785,7 +112785,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -112796,7 +112796,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -112807,7 +112807,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -112818,7 +112818,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -112829,7 +112829,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -112840,7 +112840,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -112851,7 +112851,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -112862,7 +112862,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -112873,7 +112873,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -112884,7 +112884,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -112895,7 +112895,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -112906,7 +112906,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -112917,7 +112917,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -112928,7 +112928,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -112939,7 +112939,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -112950,7 +112950,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -112961,7 +112961,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -112972,7 +112972,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -112983,7 +112983,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -112994,7 +112994,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -113005,7 +113005,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -113016,7 +113016,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -113027,7 +113027,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -113038,7 +113038,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -113049,7 +113049,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -113060,7 +113060,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -113071,7 +113071,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -113082,7 +113082,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -113093,7 +113093,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -113104,7 +113104,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -113115,7 +113115,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -113126,7 +113126,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -113137,7 +113137,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -113148,7 +113148,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -113159,7 +113159,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -113819,7 +113819,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -113830,7 +113830,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -113841,7 +113841,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -113852,7 +113852,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -113863,7 +113863,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -113874,7 +113874,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -113885,7 +113885,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -113896,7 +113896,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -113907,7 +113907,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -113918,7 +113918,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -113929,7 +113929,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -113940,7 +113940,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -113951,7 +113951,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -113962,7 +113962,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -113973,7 +113973,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -113984,7 +113984,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -113995,7 +113995,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -114006,7 +114006,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -114017,7 +114017,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -114028,7 +114028,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -114039,7 +114039,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -114050,7 +114050,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -114061,7 +114061,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -114072,7 +114072,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -114083,7 +114083,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -114094,7 +114094,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -114105,7 +114105,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -114116,7 +114116,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -114127,7 +114127,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -114138,7 +114138,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -114149,7 +114149,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -114160,7 +114160,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -114171,7 +114171,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -114182,7 +114182,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -114193,7 +114193,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -114204,7 +114204,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -114215,7 +114215,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -114226,7 +114226,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -114237,7 +114237,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -114831,7 +114831,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -114842,7 +114842,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -114853,7 +114853,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -114864,7 +114864,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -114875,7 +114875,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -114886,7 +114886,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -114897,7 +114897,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -114908,7 +114908,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -114919,7 +114919,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -114930,7 +114930,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -114941,7 +114941,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -114952,7 +114952,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -114963,7 +114963,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -114974,7 +114974,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -114985,7 +114985,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -114996,7 +114996,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -115007,7 +115007,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -115018,7 +115018,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -115029,7 +115029,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -115040,7 +115040,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -115051,7 +115051,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -115062,7 +115062,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -115073,7 +115073,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -115084,7 +115084,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -115095,7 +115095,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -115106,7 +115106,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -115117,7 +115117,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -115128,7 +115128,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -115139,7 +115139,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -115150,7 +115150,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -115161,7 +115161,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -115733,7 +115733,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -115744,7 +115744,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -115755,7 +115755,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -115766,7 +115766,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -115777,7 +115777,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -115788,7 +115788,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -115799,7 +115799,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -115810,7 +115810,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -115821,7 +115821,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -115832,7 +115832,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -115843,7 +115843,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -115854,7 +115854,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -115865,7 +115865,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -115876,7 +115876,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -115887,7 +115887,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -115898,7 +115898,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -115909,7 +115909,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -115920,7 +115920,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -115931,7 +115931,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -115942,7 +115942,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -115953,7 +115953,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -115964,7 +115964,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -115975,7 +115975,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -115986,7 +115986,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -115997,7 +115997,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -116008,7 +116008,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -116019,7 +116019,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -116030,7 +116030,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -116041,7 +116041,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -116052,7 +116052,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -116063,7 +116063,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -116074,7 +116074,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -116723,7 +116723,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -116734,7 +116734,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -116745,7 +116745,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -116756,7 +116756,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -116767,7 +116767,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -116778,7 +116778,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -116789,7 +116789,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -116800,7 +116800,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -116811,7 +116811,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -116822,7 +116822,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -116833,7 +116833,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -116844,7 +116844,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -116855,7 +116855,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -116866,7 +116866,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -116877,7 +116877,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -116888,7 +116888,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -116899,7 +116899,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -116910,7 +116910,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -116921,7 +116921,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -116932,7 +116932,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -116943,7 +116943,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -116954,7 +116954,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -116965,7 +116965,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -116976,7 +116976,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -116987,7 +116987,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -116998,7 +116998,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -117009,7 +117009,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -117020,7 +117020,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -117031,7 +117031,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -117042,7 +117042,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -117053,7 +117053,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -117064,7 +117064,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -117075,7 +117075,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -117086,7 +117086,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -117097,7 +117097,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -117108,7 +117108,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -117669,7 +117669,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -117680,7 +117680,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -117691,7 +117691,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -117702,7 +117702,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -117713,7 +117713,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -117724,7 +117724,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -117735,7 +117735,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -117746,7 +117746,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -117757,7 +117757,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -117768,7 +117768,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -117779,7 +117779,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -117790,7 +117790,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -117801,7 +117801,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -117812,7 +117812,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -117823,7 +117823,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -117834,7 +117834,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -117845,7 +117845,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -117856,7 +117856,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -117867,7 +117867,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -117878,7 +117878,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -117889,7 +117889,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -117900,7 +117900,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -117911,7 +117911,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -117922,7 +117922,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -117933,7 +117933,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -117944,7 +117944,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -117955,7 +117955,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -117966,7 +117966,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -117977,7 +117977,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -117988,7 +117988,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -117999,7 +117999,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -118615,7 +118615,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -118626,7 +118626,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -118637,7 +118637,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -118648,7 +118648,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -118659,7 +118659,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -118670,7 +118670,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -118681,7 +118681,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -118692,7 +118692,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -118703,7 +118703,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -118714,7 +118714,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -118725,7 +118725,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -118736,7 +118736,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -118747,7 +118747,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -118758,7 +118758,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -118769,7 +118769,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -118780,7 +118780,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -118791,7 +118791,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -118802,7 +118802,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -118813,7 +118813,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -118824,7 +118824,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -118835,7 +118835,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -118846,7 +118846,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -118857,7 +118857,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -118868,7 +118868,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -118879,7 +118879,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -118890,7 +118890,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -118901,7 +118901,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -118912,7 +118912,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -118923,7 +118923,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -118934,7 +118934,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -118945,7 +118945,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -118956,7 +118956,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -118967,7 +118967,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -118978,7 +118978,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -118989,7 +118989,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -119594,7 +119594,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -119605,7 +119605,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -119616,7 +119616,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -119627,7 +119627,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -119638,7 +119638,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -119649,7 +119649,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -119660,7 +119660,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -119671,7 +119671,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -119682,7 +119682,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -119693,7 +119693,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -119704,7 +119704,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -119715,7 +119715,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -119726,7 +119726,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -119737,7 +119737,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -119748,7 +119748,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -119759,7 +119759,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -119770,7 +119770,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -119781,7 +119781,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -119792,7 +119792,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -119803,7 +119803,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -119814,7 +119814,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -119825,7 +119825,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -119836,7 +119836,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -119847,7 +119847,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -119858,7 +119858,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -119869,7 +119869,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -119880,7 +119880,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -119891,7 +119891,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -119902,7 +119902,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -119913,7 +119913,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -119924,7 +119924,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -119935,7 +119935,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -119946,7 +119946,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -119957,7 +119957,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -119968,7 +119968,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -119979,7 +119979,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -120639,7 +120639,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -120650,7 +120650,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -120661,7 +120661,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -120672,7 +120672,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -120683,7 +120683,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -120694,7 +120694,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -120705,7 +120705,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -120716,7 +120716,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -120727,7 +120727,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -120738,7 +120738,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -120749,7 +120749,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -120760,7 +120760,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -120771,7 +120771,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -120782,7 +120782,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -120793,7 +120793,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -120804,7 +120804,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -120815,7 +120815,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -120826,7 +120826,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -120837,7 +120837,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -120848,7 +120848,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -120859,7 +120859,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -120870,7 +120870,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -120881,7 +120881,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -120892,7 +120892,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -120903,7 +120903,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -120914,7 +120914,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -120925,7 +120925,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -120936,7 +120936,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -120947,7 +120947,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -120958,7 +120958,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -120969,7 +120969,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -120980,7 +120980,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -120991,7 +120991,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -121002,7 +121002,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -121013,7 +121013,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -121024,7 +121024,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -121035,7 +121035,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -121046,7 +121046,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -121057,7 +121057,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -121662,7 +121662,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -121673,7 +121673,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -121684,7 +121684,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -121695,7 +121695,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -121706,7 +121706,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -121717,7 +121717,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -121728,7 +121728,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -121739,7 +121739,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -121750,7 +121750,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -121761,7 +121761,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -121772,7 +121772,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -121783,7 +121783,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -121794,7 +121794,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -121805,7 +121805,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -121816,7 +121816,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -121827,7 +121827,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -121838,7 +121838,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -121849,7 +121849,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -121860,7 +121860,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -121871,7 +121871,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -121882,7 +121882,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -121893,7 +121893,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -121904,7 +121904,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -121915,7 +121915,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -121926,7 +121926,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -121937,7 +121937,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -121948,7 +121948,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -121959,7 +121959,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -121970,7 +121970,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -121981,7 +121981,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -121992,7 +121992,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -122564,7 +122564,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -122575,7 +122575,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -122586,7 +122586,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -122597,7 +122597,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -122608,7 +122608,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -122619,7 +122619,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -122630,7 +122630,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -122641,7 +122641,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -122652,7 +122652,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -122663,7 +122663,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -122674,7 +122674,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -122685,7 +122685,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -122696,7 +122696,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -122707,7 +122707,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -122718,7 +122718,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -122729,7 +122729,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -122740,7 +122740,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -122751,7 +122751,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -122762,7 +122762,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -122773,7 +122773,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -122784,7 +122784,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -122795,7 +122795,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -122806,7 +122806,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -122817,7 +122817,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -122828,7 +122828,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -122839,7 +122839,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -122850,7 +122850,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -122861,7 +122861,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -122872,7 +122872,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -122883,7 +122883,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -122894,7 +122894,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -122905,7 +122905,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -123554,7 +123554,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -123565,7 +123565,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -123576,7 +123576,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -123587,7 +123587,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -123598,7 +123598,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -123609,7 +123609,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -123620,7 +123620,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -123631,7 +123631,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -123642,7 +123642,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -123653,7 +123653,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -123664,7 +123664,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -123675,7 +123675,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -123686,7 +123686,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -123697,7 +123697,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -123708,7 +123708,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -123719,7 +123719,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -123730,7 +123730,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -123741,7 +123741,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -123752,7 +123752,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -123763,7 +123763,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -123774,7 +123774,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -123785,7 +123785,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -123796,7 +123796,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -123807,7 +123807,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -123818,7 +123818,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -123829,7 +123829,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -123840,7 +123840,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -123851,7 +123851,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -123862,7 +123862,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -123873,7 +123873,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -123884,7 +123884,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -123895,7 +123895,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -123906,7 +123906,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -123917,7 +123917,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -123928,7 +123928,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -123939,7 +123939,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -124489,7 +124489,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -124500,7 +124500,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -124511,7 +124511,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -124522,7 +124522,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -124533,7 +124533,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -124544,7 +124544,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -124555,7 +124555,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -124566,7 +124566,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -124577,7 +124577,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -124588,7 +124588,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -124599,7 +124599,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -124610,7 +124610,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -124621,7 +124621,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -124632,7 +124632,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -124643,7 +124643,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -124654,7 +124654,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -124665,7 +124665,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -124676,7 +124676,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -124687,7 +124687,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -124698,7 +124698,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -124709,7 +124709,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -124720,7 +124720,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -124731,7 +124731,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -124742,7 +124742,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -124753,7 +124753,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -124764,7 +124764,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -124775,7 +124775,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -124786,7 +124786,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -124797,7 +124797,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -124808,7 +124808,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -124819,7 +124819,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -125424,7 +125424,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -125435,7 +125435,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -125446,7 +125446,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -125457,7 +125457,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -125468,7 +125468,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -125479,7 +125479,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -125490,7 +125490,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -125501,7 +125501,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -125512,7 +125512,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -125523,7 +125523,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -125534,7 +125534,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -125545,7 +125545,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -125556,7 +125556,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -125567,7 +125567,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -125578,7 +125578,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -125589,7 +125589,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -125600,7 +125600,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -125611,7 +125611,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -125622,7 +125622,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -125633,7 +125633,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -125644,7 +125644,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -125655,7 +125655,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -125666,7 +125666,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -125677,7 +125677,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -125688,7 +125688,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -125699,7 +125699,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -125710,7 +125710,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -125721,7 +125721,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -125732,7 +125732,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -125743,7 +125743,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -125754,7 +125754,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -125765,7 +125765,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -125776,7 +125776,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -125787,7 +125787,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -125798,7 +125798,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -126403,7 +126403,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -126414,7 +126414,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -126425,7 +126425,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -126436,7 +126436,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -126447,7 +126447,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -126458,7 +126458,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -126469,7 +126469,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -126480,7 +126480,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -126491,7 +126491,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -126502,7 +126502,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -126513,7 +126513,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -126524,7 +126524,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -126535,7 +126535,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -126546,7 +126546,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -126557,7 +126557,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -126568,7 +126568,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -126579,7 +126579,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -126590,7 +126590,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -126601,7 +126601,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -126612,7 +126612,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -126623,7 +126623,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -126634,7 +126634,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -126645,7 +126645,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -126656,7 +126656,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -126667,7 +126667,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -126678,7 +126678,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -126689,7 +126689,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -126700,7 +126700,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -126711,7 +126711,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -126722,7 +126722,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -126733,7 +126733,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -126744,7 +126744,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -126755,7 +126755,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -126766,7 +126766,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -126777,7 +126777,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -126788,7 +126788,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -127437,7 +127437,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -127448,7 +127448,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -127459,7 +127459,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -127470,7 +127470,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -127481,7 +127481,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -127492,7 +127492,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -127503,7 +127503,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -127514,7 +127514,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -127525,7 +127525,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -127536,7 +127536,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -127547,7 +127547,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -127558,7 +127558,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -127569,7 +127569,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -127580,7 +127580,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -127591,7 +127591,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -127602,7 +127602,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -127613,7 +127613,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -127624,7 +127624,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -127635,7 +127635,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -127646,7 +127646,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -127657,7 +127657,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -127668,7 +127668,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -127679,7 +127679,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -127690,7 +127690,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -127701,7 +127701,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -127712,7 +127712,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "740",
+        "Time": "0740",
         "Flight": "FZ925",
         "Airline": "Flydubai",
         "Dest": "(HAS)",
@@ -127723,7 +127723,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -127734,7 +127734,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -127745,7 +127745,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -127756,7 +127756,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -127767,7 +127767,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -127778,7 +127778,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -127789,7 +127789,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -127800,7 +127800,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -127811,7 +127811,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -127822,7 +127822,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -127833,7 +127833,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -127844,7 +127844,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -127855,7 +127855,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -128460,7 +128460,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -128471,7 +128471,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -128482,7 +128482,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -128493,7 +128493,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -128504,7 +128504,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -128515,7 +128515,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -128526,7 +128526,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -128537,7 +128537,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -128548,7 +128548,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -128559,7 +128559,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -128570,7 +128570,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -128581,7 +128581,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -128592,7 +128592,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -128603,7 +128603,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -128614,7 +128614,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -128625,7 +128625,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -128636,7 +128636,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -128647,7 +128647,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -128658,7 +128658,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -128669,7 +128669,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -128680,7 +128680,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -128691,7 +128691,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -128702,7 +128702,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -128713,7 +128713,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -128724,7 +128724,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -128735,7 +128735,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -128746,7 +128746,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -128757,7 +128757,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -128768,7 +128768,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -128779,7 +128779,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -128790,7 +128790,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -129362,7 +129362,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -129373,7 +129373,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -129384,7 +129384,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -129395,7 +129395,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -129406,7 +129406,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -129417,7 +129417,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -129428,7 +129428,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -129439,7 +129439,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -129450,7 +129450,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -129461,7 +129461,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "340",
+        "Time": "0340",
         "Flight": "FZ1827",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -129472,7 +129472,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -129483,7 +129483,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -129494,7 +129494,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -129505,7 +129505,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -129516,7 +129516,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -129527,7 +129527,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -129538,7 +129538,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -129549,7 +129549,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -129560,7 +129560,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -129571,7 +129571,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -129582,7 +129582,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -129593,7 +129593,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -129604,7 +129604,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -129615,7 +129615,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -129626,7 +129626,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -129637,7 +129637,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -129648,7 +129648,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -129659,7 +129659,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -129670,7 +129670,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -129681,7 +129681,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -129692,7 +129692,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -129703,7 +129703,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -130352,7 +130352,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -130363,7 +130363,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -130374,7 +130374,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -130385,7 +130385,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -130396,7 +130396,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -130407,7 +130407,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -130418,7 +130418,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -130429,7 +130429,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -130440,7 +130440,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -130451,7 +130451,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -130462,7 +130462,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -130473,7 +130473,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -130484,7 +130484,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -130495,7 +130495,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -130506,7 +130506,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -130517,7 +130517,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -130528,7 +130528,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -130539,7 +130539,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -130550,7 +130550,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -130561,7 +130561,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -130572,7 +130572,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -130583,7 +130583,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -130594,7 +130594,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -130605,7 +130605,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -130616,7 +130616,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -130627,7 +130627,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -130638,7 +130638,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -130649,7 +130649,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -130660,7 +130660,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -130671,7 +130671,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -130682,7 +130682,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -130693,7 +130693,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1289",
         "Airline": "Flydubai",
         "Dest": "(MBA)",
@@ -130704,7 +130704,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -130715,7 +130715,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -130726,7 +130726,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -130737,7 +130737,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -131298,7 +131298,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -131309,7 +131309,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -131320,7 +131320,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -131331,7 +131331,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -131342,7 +131342,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -131353,7 +131353,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -131364,7 +131364,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -131375,7 +131375,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -131386,7 +131386,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -131397,7 +131397,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -131408,7 +131408,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -131419,7 +131419,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -131430,7 +131430,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -131441,7 +131441,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -131452,7 +131452,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -131463,7 +131463,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -131474,7 +131474,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -131485,7 +131485,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -131496,7 +131496,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -131507,7 +131507,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -131518,7 +131518,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -131529,7 +131529,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -131540,7 +131540,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -131551,7 +131551,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -131562,7 +131562,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -131573,7 +131573,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -131584,7 +131584,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -131595,7 +131595,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -131606,7 +131606,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -131617,7 +131617,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -131628,7 +131628,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -132244,7 +132244,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "20",
+        "Time": "0020",
         "Flight": "FZ731",
         "Airline": "Flydubai",
         "Dest": "(ASB)",
@@ -132255,7 +132255,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -132266,7 +132266,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -132277,7 +132277,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -132288,7 +132288,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -132299,7 +132299,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -132310,7 +132310,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -132321,7 +132321,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -132332,7 +132332,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -132343,7 +132343,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -132354,7 +132354,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -132365,7 +132365,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -132376,7 +132376,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -132387,7 +132387,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -132398,7 +132398,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "655",
+        "Time": "0655",
         "Flight": "FZ353",
         "Airline": "Flydubai",
         "Dest": "(ISB)",
@@ -132409,7 +132409,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "700",
+        "Time": "0700",
         "Flight": "FZ147",
         "Airline": "Flydubai",
         "Dest": "(AMM)",
@@ -132420,7 +132420,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ221",
         "Airline": "Flydubai",
         "Dest": "(NJF)",
@@ -132431,7 +132431,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -132442,7 +132442,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -132453,7 +132453,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -132464,7 +132464,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1425",
         "Airline": "Flydubai",
         "Dest": "(BSL)",
@@ -132475,7 +132475,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1501",
         "Airline": "Flydubai",
         "Dest": "(CTA)",
@@ -132486,7 +132486,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -132497,7 +132497,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "750",
+        "Time": "0750",
         "Flight": "FZ703",
         "Airline": "Flydubai",
         "Dest": "(POZ)",
@@ -132508,7 +132508,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -132519,7 +132519,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -132530,7 +132530,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -132541,7 +132541,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ745",
         "Airline": "Flydubai",
         "Dest": "(TIA)",
@@ -132552,7 +132552,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FZ611",
         "Airline": "Flydubai",
         "Dest": "(JUB)",
@@ -132563,7 +132563,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -132574,7 +132574,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -132585,7 +132585,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -132596,7 +132596,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -132607,7 +132607,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -132618,7 +132618,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
@@ -133223,7 +133223,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "30",
+        "Time": "0030",
         "Flight": "FZ713",
         "Airline": "Flydubai",
         "Dest": "(TBS)",
@@ -133234,7 +133234,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "40",
+        "Time": "0040",
         "Flight": "FZ1303",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -133245,7 +133245,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "110",
+        "Time": "0110",
         "Flight": "FZ1025",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -133256,7 +133256,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ429",
         "Airline": "Flydubai",
         "Dest": "(CCJ)",
@@ -133267,7 +133267,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "130",
+        "Time": "0130",
         "Flight": "FZ1307",
         "Airline": "Flydubai",
         "Dest": "(NQZ)",
@@ -133278,7 +133278,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "135",
+        "Time": "0135",
         "Flight": "FZ1447",
         "Airline": "Flydubai",
         "Dest": "(UTP)",
@@ -133289,7 +133289,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "140",
+        "Time": "0140",
         "Flight": "FZ1463",
         "Airline": "Flydubai",
         "Dest": "(KBV)",
@@ -133300,7 +133300,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "150",
+        "Time": "0150",
         "Flight": "AZ857",
         "Airline": "ITA Airways",
         "Dest": "(FCO)",
@@ -133311,7 +133311,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "200",
+        "Time": "0200",
         "Flight": "FZ1207",
         "Airline": "Flydubai",
         "Dest": "(MLE)",
@@ -133322,7 +133322,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "215",
+        "Time": "0215",
         "Flight": "FZ579",
         "Airline": "Flydubai",
         "Dest": "(CMB)",
@@ -133333,7 +133333,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "230",
+        "Time": "0230",
         "Flight": "FZ1259",
         "Airline": "Flydubai",
         "Dest": "(ZNZ)",
@@ -133344,7 +133344,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "405",
+        "Time": "0405",
         "Flight": "FZ1835",
         "Airline": "Flydubai",
         "Dest": "(WAW)",
@@ -133355,7 +133355,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ441",
         "Airline": "Flydubai",
         "Dest": "(DEL)",
@@ -133366,7 +133366,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ831",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -133377,7 +133377,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "410",
+        "Time": "0410",
         "Flight": "FZ1603",
         "Airline": "Flydubai",
         "Dest": "(PEN)",
@@ -133388,7 +133388,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "415",
+        "Time": "0415",
         "Flight": "FZ661",
         "Airline": "Flydubai",
         "Dest": "(HGA)",
@@ -133399,7 +133399,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "425",
+        "Time": "0425",
         "Flight": "FZ301",
         "Airline": "Flydubai",
         "Dest": "(KBL)",
@@ -133410,7 +133410,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "535",
+        "Time": "0535",
         "Flight": "FZ619",
         "Airline": "Flydubai",
         "Dest": "(EBB)",
@@ -133421,7 +133421,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "710",
+        "Time": "0710",
         "Flight": "FZ359",
         "Airline": "Flydubai",
         "Dest": "(LHE)",
@@ -133432,7 +133432,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "FZ1633",
         "Airline": "Flydubai",
         "Dest": "(MSQ)",
@@ -133443,7 +133443,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "720",
+        "Time": "0720",
         "Flight": "FZ1549",
         "Airline": "Flydubai",
         "Dest": "(TLV)",
@@ -133454,7 +133454,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1573",
         "Airline": "Flydubai",
         "Dest": "(BGY)",
@@ -133465,7 +133465,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "730",
+        "Time": "0730",
         "Flight": "FZ1681",
         "Airline": "Flydubai",
         "Dest": "(NAP)",
@@ -133476,7 +133476,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ157",
         "Airline": "Flydubai",
         "Dest": "(BEY)",
@@ -133487,7 +133487,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "735",
+        "Time": "0735",
         "Flight": "FZ1787",
         "Airline": "Flydubai",
         "Dest": "(KRK)",
@@ -133498,7 +133498,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ1295",
         "Airline": "Flydubai",
         "Dest": "(PSA)",
@@ -133509,7 +133509,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "800",
+        "Time": "0800",
         "Flight": "FZ923",
         "Airline": "Flydubai",
         "Dest": "(TUU)",
@@ -133520,7 +133520,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "FZ709",
         "Airline": "Flydubai",
         "Dest": "(GYD)",
@@ -133531,7 +133531,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "815",
+        "Time": "0815",
         "Flight": "CX746",
         "Airline": "Cathay Pacific",
         "Dest": "(HKG)",
@@ -133542,7 +133542,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1745",
         "Airline": "Flydubai",
         "Dest": "(BEG)",
@@ -133553,7 +133553,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "FZ1449",
         "Airline": "Flydubai",
         "Dest": "(SZG)",
@@ -133564,7 +133564,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "FZ751",
         "Airline": "Flydubai",
         "Dest": "(SAW)",
@@ -133575,7 +133575,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "FZ1793",
         "Airline": "Flydubai",
         "Dest": "(ZAG)",
@@ -133586,7 +133586,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "FZ909",
         "Airline": "Flydubai",
         "Dest": "(JED)",
@@ -133597,7 +133597,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "930",
+        "Time": "0930",
         "Flight": "FZ1789",
         "Airline": "Flydubai",
         "Dest": "(LJU)",
@@ -133608,7 +133608,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "FZ1757",
         "Airline": "Flydubai",
         "Dest": "(SOF)",
