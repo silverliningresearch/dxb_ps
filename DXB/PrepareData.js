@@ -85,6 +85,9 @@ function prepareInterviewData() {
   this_month_flight_list  = [];
   this_month_flight_list.length = 0;
   
+  const excluded_airlines = ["Flydubai"];
+  const excluded_Airplane = ["737-", "A320", "A321"];
+
   for (i = 0; i < flight_list_temp.length; i++) {
     let flight = flight_list_temp[i];
     //currentMonth: 02-2023
@@ -97,7 +100,14 @@ function prepareInterviewData() {
     { 
       flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
       //flight.Date_Time = flight.Time;
-      today_flight_list.push(flight);
+      if (flight["Airplane type"] == "A320neo")
+      {
+        print("ABC");
+      }
+      if (!excluded_airlines.includes(flight.Airline) && !excluded_Airplane.includes(flight["Airplane type"].substring(0,4)))
+      {
+        today_flight_list.push(flight);
+      }
     }
 			   
   }
