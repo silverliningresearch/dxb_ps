@@ -102,7 +102,9 @@ function prepareInterviewData() {
       //flight.Date_Time = flight.Time;
       if (!excluded_airlines.includes(flight.Airline) && !excluded_Airplane.includes(flight["Airplane type"].substring(0,4)))
       {
-        today_flight_list.push(flight);
+        if (flight.Airline == "Emirates") {
+          today_flight_list.push(flight);
+        }
       }
     }
 			   
